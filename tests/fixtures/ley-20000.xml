@@ -1,0 +1,2692 @@
+<?xml version="1.0" encoding="UTF-8"?><Norma xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.leychile.cl/esquemas" xsi:schemaLocation="http://www.leychile.cl/esquemas http://www.leychile.cl/esquemas/EsquemaIntercambioNorma-v1-0.xsd" normaId="235507" esTratado="no tratado" fechaVersion="2026-05-23" SchemaVersion="1.0" derogado="no derogado">
+  <Identificador fechaPromulgacion="2005-02-02" fechaPublicacion="2005-02-16">
+    <TiposNumeros>
+      <TipoNumero>
+        <Tipo>Ley</Tipo>
+        <Numero>20000</Numero>
+      </TipoNumero>
+    </TiposNumeros>
+    <Organismos>
+      <Organismo>MINISTERIO DEL INTERIOR</Organismo>
+    </Organismos>
+  </Identificador>
+  <Metadatos>
+    <TituloNorma>SUSTITUYE LA LEY N&#186; 19.366, QUE SANCIONA EL TRAFICO ILICITO DE ESTUPEFACIENTES Y SUSTANCIAS SICOTROPICAS</TituloNorma>
+    <Materias>
+      <Materia>Narc&#243;ticos</Materia>
+      <Materia>Control de Medicamentos y Narc&#243;ticos</Materia>
+      <Materia>Ley no. 20.000</Materia>
+    </Materias>
+    
+    
+    <IdentificacionFuente>Diario Oficial</IdentificacionFuente>
+    <NumeroFuente>38088</NumeroFuente>
+  </Metadatos>
+  <Encabezado fechaVersion="2005-02-16" derogado="no derogado">
+    <Texto>              LEY NUM. 20.000
+
+SUSTITUYE LA LEY N&#186; 19.366, QUE SANCIONA EL TRAFICO ILICITO
+DE ESTUPEFACIENTES Y SUSTANCIAS SICOTROPICAS
+
+     Teniendo presente que el H. Congreso Nacional ha dado
+su aprobaci&#243;n al siguiente
+
+     Proyecto de ley:</Texto>
+  </Encabezado>
+  <EstructurasFuncionales>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="T&#237;tulo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652178">
+      <Texto>              TITULO I
+
+      De los delitos y sanciones
+</Texto>
+      <Metadatos>
+        <NombreParte presente="no">&#160;</NombreParte>
+        <TituloParte presente="si">TITULO I De los delitos y sanciones</TituloParte>
+        
+      </Metadatos>
+      <EstructurasFuncionales>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="P&#225;rrafo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652179">
+          <Texto>              P&#225;rrafo 1&#186;
+
+      De los cr&#237;menes y simples delitos
+</Texto>
+          <Metadatos>
+            <NombreParte presente="no">&#160;</NombreParte>
+            <TituloParte presente="si">P&#225;rrafo 1&#186; De los cr&#237;menes y simples delitos</TituloParte>
+            
+          </Metadatos>
+          <EstructurasFuncionales>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652177">
+              <Texto>     Art&#237;culo 1&#186;.- Los que elaboren, fabriquen,
+transformen, preparen o extraigan sustancias o drogas
+estupefacientes o sicotr&#243;picas productoras de dependencia
+f&#237;sica o s&#237;quica, capaces de provocar graves efectos
+t&#243;xicos o da&#241;os considerables a la salud, sin la debida
+autorizaci&#243;n, ser&#225;n castigados con presidio mayor en sus
+grados m&#237;nimo a medio y multa de cuarenta a cuatrocientas
+unidades tributarias mensuales.
+     Si se tratare de otras drogas o sustancias de esta
+&#237;ndole que no produzcan los efectos indicados en el inciso
+anterior, podr&#225; rebajarse la pena hasta en un grado.
+     Incurren tambi&#233;n en este delito, quienes tengan en su
+poder elementos, instrumentos, materiales o equipos
+com&#250;nmente destinados a la elaboraci&#243;n, fabricaci&#243;n,
+preparaci&#243;n, transformaci&#243;n o extracci&#243;n de las
+sustancias o drogas a que se refieren los incisos
+anteriores.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">1 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652180">
+              <Texto>     Art&#237;culo 2&#186;.- La producci&#243;n, fabricaci&#243;n,
+elaboraci&#243;n, distribuci&#243;n, transporte, comercializaci&#243;n,
+importaci&#243;n, exportaci&#243;n, posesi&#243;n o tenencia de
+precursores o de sustancias qu&#237;micas esenciales, con el
+objetivo de destinarlos a la preparaci&#243;n de drogas
+estupefacientes o sustancias sicotr&#243;picas para perpetrar,
+dentro o fuera del pa&#237;s, alguno de los hechos considerados
+como delitos en esta ley, ser&#225; castigado con presidio menor
+en su grado m&#225;ximo a presidio mayor en su grado m&#237;nimo y
+multa de cuarenta a cuatrocientas unidades tributarias
+mensuales.
+     Si alguna de las conductas descritas en el inciso
+anterior se hubiere realizado sin conocer el destino de los
+precursores o de las sustancias qu&#237;micas esenciales por
+negligencia inexcusable, la pena ser&#225; de presidio menor en
+sus grados m&#237;nimo a medio.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">2 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652181">
+              <Texto>     Art&#237;culo 3&#186;.- Las penas establecidas en el art&#237;culo
+1&#186; se aplicar&#225;n tambi&#233;n a quienes trafiquen, bajo
+cualquier t&#237;tulo, con las sustancias a que dicha
+disposici&#243;n se refiere, o con las materias primas que
+sirvan para obtenerlas y a quienes, por cualquier medio,
+induzcan, promuevan o faciliten el uso o consumo de tales
+sustancias.
+     Se entender&#225; que trafican los que, sin contar con la
+autorizaci&#243;n competente, importen, exporten, transporten,
+adquieran, transfieran, sustraigan, posean, suministren,
+guarden o porten tales sustancias o materias primas.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">3 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2026-05-23" derogado="no derogado" idParte="8652182">
+              <Texto>     Art&#237;culo 4&#186;.- El que, sin la competente autorizaci&#243;n
+posea, transporte, guarde o porte consigo peque&#241;as
+cantidades de sustancias o drogas estupefacientes o
+sicotr&#243;picas, productoras de dependencia f&#237;sica o
+s&#237;quica, o de materias primas que sirvan para obtenerlas,
+sea que se trate de las indicadas en los incisos primero o
+segundo del art&#237;culo 1&#186;, ser&#225; castigado con presidio
+menor en sus grados medio a m&#225;ximo y multa de diez a
+cuarenta unidades tributarias mensuales, a menos que
+justifique que est&#225;n destinadas a la atenci&#243;n de un
+tratamiento m&#233;dico o a su uso o consumo personal exclusivo
+y pr&#243;ximo en el tiempo.
+     En igual pena incurrir&#225; el que adquiera, transfiera,
+suministre o facilite a cualquier t&#237;tulo peque&#241;as
+cantidades de estas sustancias, drogas o materias primas,
+con el objetivo de que sean consumidas o usadas por otro.
+     Se entender&#225; que no concurre la circunstancia de uso o
+consumo personal exclusivo y pr&#243;ximo en el tiempo, cuando
+la droga pose&#237;da, transportada, guardada o portada no
+permita racionalmente suponer que est&#225; destinada al uso o
+consumo descrito o cuando las circunstancias de la
+posesi&#243;n, transporte, guarda o porte sean indiciarias del
+prop&#243;sito de traficar a cualquier t&#237;tulo.
+     Cuando las peque&#241;as cantidades de sustancias o drogas
+que determine el reglamento sean capaces de producir graves
+efectos t&#243;xicos o da&#241;os considerables a la salud, de
+acuerdo con lo previsto en el art&#237;culo 1&#176; de esta ley y lo
+establecido en el reglamento de la ley N&#176; 20.000 que
+sanciona el tr&#225;fico il&#237;cito de estupefacientes y
+sustancias sicotr&#243;picas y sustituye la ley N&#176; 19.366,
+contenido en el decreto N&#176; 867, promulgado en 2007 y
+publicado en 2008, del Ministerio del Interior, se aplicar&#225;
+la pena del mencionado art&#237;culo 1.
+
+
+</Texto>
+              <Metadatos>
+                <NombreParte presente="si">4 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2026-05-23" derogado="no derogado" idParte="8652183">
+              <Texto>     Art&#237;culo 5.- El que sin el consentimiento de la
+persona afectada le administre a &#233;sta alguna de las
+sustancias referidas en el art&#237;culo 1&#176; y el inciso final
+del art&#237;culo 4, ser&#225; sancionado con la pena de presidio
+menor en su grado medio a m&#225;ximo y multa de once a veinte
+unidades tributarias mensuales.
+     Si se hubiese obrado con violencia o intimidaci&#243;n para
+administrar u obligar a otro a consumir las sustancias
+referidas en el art&#237;culo 1&#176; y el inciso final del
+art&#237;culo 4, la pena ser&#225; de presidio mayor en sus grados
+m&#237;nimo a medio.
+     Lo dispuesto en los incisos precedentes no ser&#225;
+aplicable si el hecho fuere constitutivo de un delito
+sancionado con igual o mayor pena por otra disposici&#243;n
+legal, en cuyo caso, sin perjuicio de lo dispuesto en el
+art&#237;culo 63 del C&#243;digo Penal, el suministro de dichas
+sustancias o el empleo de violencia o intimidaci&#243;n ser&#225;n
+considerados como una sola circunstancia agravante.
+     Si los delitos previstos en el presente art&#237;culo se
+hubieren realizado para facilitar o permitir la ejecuci&#243;n
+de otros delitos, las penas previstas de unos y otros se
+aplicar&#225;n de conformidad a lo dispuesto en el art&#237;culo 74
+del C&#243;digo Penal.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">5 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2023-05-23" derogado="no derogado" idParte="10433086">
+              <Texto>     Art&#237;culo 5 bis.- El que suministre a menores de
+dieciocho a&#241;os de edad, a cualquier t&#237;tulo, productos que
+contengan solventes o gases inhalantes capaces de provocar
+da&#241;os a la salud o dependencia f&#237;sica o ps&#237;quica, tales
+como benceno, tolueno, u otras sustancias similares,
+incurrir&#225; en la pena de presidio menor en su grado m&#225;ximo
+a presidio mayor en su grado m&#237;nimo y multa de ochenta a
+cuatrocientas unidades tributarias mensuales. 
+     Atendidas las circunstancias del delito, podr&#225;
+imponerse, adem&#225;s, la clausura a que hace referencia el
+art&#237;culo 7.
+     </Texto>
+              <Metadatos>
+                <NombreParte presente="si">5 BIS</NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2026-05-23" derogado="no derogado" idParte="8652184">
+              <Texto>     Art&#237;culo 6&#186;.- El m&#233;dico cirujano, odont&#243;logo o
+m&#233;dico veterinario que recete alguna de las sustancias
+se&#241;aladas en el art&#237;culo 1&#176; y el inciso final del
+art&#237;culo 4, sin necesidad m&#233;dica o terap&#233;utica, ser&#225;
+penado con presidio mayor en sus grados m&#237;nimo a medio y
+multa de cuarenta a cuatrocientas unidades tributarias
+mensuales.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">6 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2026-05-23" derogado="no derogado" idParte="8652185">
+              <Texto>     Art&#237;culo 7&#186;.- El que, encontr&#225;ndose autorizado para
+suministrar a cualquier t&#237;tulo las sustancias o drogas a
+que se refieren el art&#237;culo 1&#176; y el inciso final del
+art&#237;culo 4, o las materias que sirvan para obtenerlas, lo
+hiciere en contravenci&#243;n de las disposiciones legales o
+reglamentarias que lo regulan, ser&#225; sancionado con presidio
+mayor en sus grados m&#237;nimo a medio y multa de cuarenta a
+cuatrocientas unidades tributarias mensuales. Atendidas las
+circunstancias del delito, podr&#225; imponerse, adem&#225;s, la
+medida de clausura temporal del establecimiento por un plazo
+no inferior a sesenta d&#237;as ni superior a ciento veinte
+d&#237;as, aun cuando el autor del hecho sea empleado o
+dependiente de cualquier modo en dicho establecimiento. En
+caso de reiteraci&#243;n, podr&#225; imponerse la clausura
+definitiva y la prohibici&#243;n perpetua para el autor de tales
+il&#237;citos de participar en otro establecimiento de igual
+naturaleza.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">7 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2023-05-23" derogado="no derogado" idParte="8652186">
+              <Texto>     Art&#237;culo 8&#186;.- El que, careciendo de la debida
+autorizaci&#243;n, siembre, plante, cultive o coseche especies
+vegetales del g&#233;nero cannabis u otras productoras de
+sustancias estupefacientes o sicotr&#243;picas, incurrir&#225; en la
+pena de presidio menor en su grado m&#225;ximo a presidio mayor
+en su grado m&#237;nimo y multa de cuarenta a cuatrocientas
+unidades tributarias mensuales, a menos que justifique que
+est&#225;n destinadas a su uso o consumo personal exclusivo y
+pr&#243;ximo en el tiempo, caso en el cual s&#243;lo se aplicar&#225;n
+las sanciones de los art&#237;culos 50 y siguientes.
+     Se entender&#225; justificado el cultivo de especies
+vegetales del g&#233;nero cannabis para la atenci&#243;n de un
+tratamiento m&#233;dico, con la presentaci&#243;n de la receta
+extendida para ese efecto por un m&#233;dico cirujano tratante,
+la que deber&#225; indicar el diagn&#243;stico de la enfermedad, su
+tratamiento y duraci&#243;n, adem&#225;s de la forma de
+administraci&#243;n del cannabis, la que no podr&#225; ser mediante
+combusti&#243;n. Ser&#225; sancionado con la pena de presidio mayor
+en su grado m&#237;nimo quien falsifique o maliciosamente haga
+uso de recetas falsas para justificar el cultivo de especies
+vegetales del g&#233;nero cannabis. Si se acreditare que dicha
+conducta tiene por objeto la comercializaci&#243;n de la droga o
+su facilitaci&#243;n a un tercero, la pena aumentar&#225; en un
+grado.
+     Seg&#250;n la gravedad del hecho y las circunstancias
+personales del responsable, la pena podr&#225; rebajarse en un
+grado.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">8 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2023-05-23" derogado="no derogado" idParte="8652187">
+              <Texto>     Art&#237;culo 9&#186;.- La autorizaci&#243;n a que se refiere el
+art&#237;culo anterior ser&#225; otorgada por el Servicio Agr&#237;cola
+y Ganadero. No podr&#225; otorgarse dicha autorizaci&#243;n a las
+personas naturales respecto de las cuales se hubiere
+decretado la suspensi&#243;n condicional del procedimiento
+prevista en el art&#237;culo 237 del C&#243;digo Procesal Penal o
+hayan sido condenadas por alguna de las conductas punibles
+contempladas en esta ley o en las leyes 19.366 y 19.913.
+Tampoco se otorgar&#225; a las personas jur&#237;dicas, cuando
+cualesquiera de sus representantes legales o
+administradores, y socios en el caso de las sociedades que
+no sean an&#243;nimas, se encuentren en alguna de dichas
+situaciones.
+     Se suspender&#225; la autorizaci&#243;n concedida por el solo
+ministerio de la ley si, con posterioridad a &#233;sta, se
+formaliza la investigaci&#243;n por alguno de los delitos
+aludidos; y se entender&#225; cancelada definitivamente, de
+igual modo, desde que se encuentre ejecutoriada la
+respectiva sentencia de t&#233;rmino condenatoria.
+     Las resoluciones judiciales aludidas en los incisos
+anteriores se comunicar&#225;n al Servicio Agr&#237;cola y Ganadero
+tan pronto se encuentren firmes. Dicho Servicio, a la
+brevedad, dictar&#225; la correspondiente resoluci&#243;n, de
+car&#225;cter declarativo, y la comunicar&#225; a los interesados.
+     </Texto>
+              <Metadatos>
+                <NombreParte presente="si">9 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652188">
+              <Texto>     Art&#237;culo 10.- El que, estando autorizado para efectuar
+las siembras, plantaciones, cultivos o cosechas a que se
+refiere el art&#237;culo anterior, desv&#237;e o destine al tr&#225;fico
+il&#237;cito alguna de las especies vegetales all&#237; se&#241;aladas,
+o sus rastrojos, florescencias, semillas u otras partes
+activas, ser&#225; penado con presidio mayor en sus grados
+m&#237;nimo a medio y multa de cuarenta a cuatrocientas unidades
+tributarias mensuales.
+     Si, por imprudencia o negligencia culpable, abandonare
+en lugares de f&#225;cil acceso al p&#250;blico plantas, sus
+rastrojos, florescencias, semillas u otras partes activas, o
+no cumpliere con las obligaciones establecidas en el
+reglamento sobre cierro y destrucci&#243;n de tales especies,
+ser&#225; castigado con reclusi&#243;n o relegaci&#243;n menores en su
+grado m&#237;nimo y multa de veinte a doscientas unidades
+tributarias mensuales.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">10 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652189">
+              <Texto>     Art&#237;culo 11.- El propietario, poseedor, mero tenedor o
+administrador a cualquier t&#237;tulo de bienes ra&#237;ces o
+muebles que, aun sin concierto previo, los facilite a otro a
+sabiendas de que ser&#225;n destinados a la comisi&#243;n de alguno
+de los delitos contemplados en los art&#237;culos 1&#186;, 2&#186;, 3&#186;
+u 8&#186;, ser&#225; penado con la misma sanci&#243;n establecida para
+el respectivo delito.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">11 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652190">
+              <Texto>     Art&#237;culo 12.- Quien se encuentre, a cualquier t&#237;tulo,
+a cargo de un establecimiento de comercio, cine, hotel,
+restaurante, bar, centro de baile o m&#250;sica, recinto
+deportivo, establecimiento educacional de cualquier nivel, u
+otros abiertos al p&#250;blico, y tolere o permita el tr&#225;fico o
+consumo de alguna de las sustancias mencionadas en el
+art&#237;culo 1&#186;, ser&#225; castigado con presidio menor en sus
+grados medio a m&#225;ximo y multa de cuarenta a doscientas
+unidades tributarias mensuales, a menos que le corresponda
+una sanci&#243;n mayor por su participaci&#243;n en el hecho.
+     El tribunal podr&#225;, adem&#225;s, imponer las medidas de
+clausura a que hace referencia el art&#237;culo 7&#186;. </Texto>
+              <Metadatos>
+                <NombreParte presente="si">12 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652191">
+              <Texto>     Art&#237;culo 13.- El funcionario p&#250;blico que, en raz&#243;n
+de su cargo, tome conocimiento de alguno de los delitos
+contemplados en esta ley y omita denunciarlo al Ministerio
+P&#250;blico, a los funcionarios de Carabineros de Chile o de la
+Polic&#237;a de Investigaciones, o de Gendarmer&#237;a en los casos
+de los delitos cometidos dentro de los recintos
+penitenciarios, o ante cualquier tribunal con competencia en
+lo criminal, ser&#225; castigado con presidio menor en sus
+grados medio a m&#225;ximo y multa de cuarenta a cuatrocientas
+unidades tributarias mensuales.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">13 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652192">
+              <Texto>     Art&#237;culo 14.- El personal militar a que se refiere el
+art&#237;culo 6&#186; del C&#243;digo de Justicia Militar, con
+excepci&#243;n de los conscriptos, el de la Polic&#237;a de
+Investigaciones de Chile, el de Gendarmer&#237;a de Chile y el
+de aeron&#225;utica a que se refiere el art&#237;culo 57 del C&#243;digo
+Aeron&#225;utico que consuma alguna de las sustancias se&#241;aladas
+en los art&#237;culos 1&#186; y 5&#186; de esta ley, ser&#225; castigado con
+la pena de presidio menor en sus grados m&#237;nimo a medio.
+     No obstante, si consumieren tales sustancias en los
+lugares o situaciones mencionados en el art&#237;culo 5&#186;, N&#186;
+3&#186;, del C&#243;digo de Justicia Militar, la sanci&#243;n ser&#225;
+presidio menor en sus grados medio a m&#225;ximo.
+     Los conscriptos que consuman alguna de las sustancias
+se&#241;aladas en los art&#237;culos 1&#186; y 5&#186; de esta ley, en los
+lugares o situaciones indicados en el art&#237;culo 5&#186;, N&#186;
+3&#186;, del C&#243;digo de Justicia Militar, ser&#225;n castigados con
+la pena de presidio menor en su grado m&#237;nimo.
+     Las mismas penas expresadas en los incisos anteriores
+se aplicar&#225; al respectivo personal si guarda o porta
+consigo dichas sustancias, aun cuando sean para su uso o
+consumo personal exclusivo y pr&#243;ximo en el tiempo.
+     Esta pena no se aplicar&#225; a los que justifiquen el uso,
+consumo, porte o tenencia de dichas sustancias en la
+atenci&#243;n de un tratamiento m&#233;dico.
+     Corresponder&#225; a la autoridad superior de cada
+organismo prevenir el uso indebido de sustancias
+estupefacientes o sicotr&#243;picas, debiendo ordenar la
+realizaci&#243;n peri&#243;dica de controles de consumo conforme a
+las normas contenidas en un reglamento que se dictar&#225; al
+efecto.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">14 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652193">
+              <Texto>     Art&#237;culo 15.- Los oficiales y el personal de Gente de
+Mar de dotaci&#243;n de buques de la marina mercante, de naves
+especiales y de artefactos navales que, a bordo o en el
+cumplimiento de sus funciones, porten para su exclusivo uso
+personal y pr&#243;ximo en el tiempo o consuman alguna de las
+sustancias se&#241;aladas en los art&#237;culos 1&#186; y 5&#176;, ser&#225;n
+sancionados con presidio o reclusi&#243;n menores en sus grados
+medio a m&#225;ximo y multa de diez a cien unidades tributarias
+mensuales.
+     Dichas penas no se aplicar&#225;n a los que justifiquen el
+uso, consumo, porte o tenencia de alguna de dichas
+sustancias en la atenci&#243;n de un tratamiento m&#233;dico. </Texto>
+              <Metadatos>
+                <NombreParte presente="si">15 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652194">
+              <Texto>     Art&#237;culo 16.- Los que se asociaren u organizaren con
+el objeto de cometer alguno de los delitos contemplados en
+esta ley ser&#225;n sancionados, por este solo hecho, seg&#250;n las
+normas que siguen:
+     1.- Con presidio mayor en sus grados medio a m&#225;ximo,
+al que financie de cualquier forma, ejerza el mando o
+direcci&#243;n, o planifique el o los delitos que se propongan.
+     2.- Con presidio mayor en sus grados m&#237;nimo a medio,
+al que suministre veh&#237;culos, armas, municiones,
+instrumentos, alojamientos, escondite, lugar de reuni&#243;n o
+cualquiera otra forma de colaboraci&#243;n para la consecuci&#243;n
+de los fines de la organizaci&#243;n.
+     Si el autor, c&#243;mplice o encubridor del delito
+establecido en este art&#237;culo cometiere, adem&#225;s, alguno de
+los delitos contemplados en esta ley, se estar&#225; a lo
+dispuesto en el art&#237;culo 74 del C&#243;digo Penal para los
+efectos de la aplicaci&#243;n de la pena.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">16 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652195">
+              <Texto>     Art&#237;culo 17.- La conspiraci&#243;n para cometer los
+delitos contemplados en esta ley ser&#225; sancionada con la
+pena asignada al delito respectivo, rebajada en un grado.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">17 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652196">
+              <Texto>     Art&#237;culo 18.- Los delitos de que trata esta ley se
+sancionar&#225;n como consumados desde que haya principio de
+ejecuci&#243;n.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">18 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+          </EstructurasFuncionales>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="P&#225;rrafo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652198">
+          <Texto>              P&#225;rrafo 2&#186;
+         De las circunstancias agravantes
+</Texto>
+          <Metadatos>
+            <NombreParte presente="no">&#160;</NombreParte>
+            <TituloParte presente="si">P&#225;rrafo 2&#186; De las circunstancias agravantes</TituloParte>
+            
+          </Metadatos>
+          <EstructurasFuncionales>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2026-05-23" derogado="no derogado" idParte="8652197">
+              <Texto>     Art&#237;culo 19.- Trat&#225;ndose de los delitos anteriormente
+descritos, la pena deber&#225; ser aumentada en un grado si
+concurre alguna de las circunstancias siguientes:
+     a) Si el imputado form&#243; parte de una agrupaci&#243;n o
+reuni&#243;n de delincuentes, sin incurrir en el delito de
+organizaci&#243;n del art&#237;culo 16.
+     b) Si se utiliz&#243; violencia, armas o enga&#241;o en su
+comisi&#243;n.
+     c) Si se suministr&#243;, promovi&#243;, indujo o facilit&#243; el
+uso o consumo de drogas o sustancias estupefacientes o
+sicotr&#243;picas a menores de dieciocho a&#241;os de edad, o a
+personas con sus facultades mentales disminuidas o
+perturbadas.
+     d) Si el delito se cometi&#243; por funcionarios p&#250;blicos
+aprovechando o abusando de su calidad de tales.
+     e) Si el delito se cometi&#243; vali&#233;ndose de ni&#241;os,
+ni&#241;as o adolescentes o personas exentas de responsabilidad
+penal.
+     f) Si el delito se cometi&#243; en las inmediaciones o en
+el interior de un establecimiento de ense&#241;anza o en sitios
+a los que escolares y estudiantes acuden a realizar
+actividades educativas, deportivas o sociales.
+     g) Si el delito se perpetr&#243; en una instituci&#243;n
+deportiva, cultural o social, mientras &#233;sta cumpl&#237;a sus
+fines propios; o en sitios donde se estaban realizando
+espect&#225;culos p&#250;blicos, actividades recreativas, culturales
+o sociales.
+     h) Si el delito fue cometido en un centro hospitalario,
+asistencial, lugar de detenci&#243;n o reclusi&#243;n, recinto
+militar o policial.
+     i) Si el delito es perpetrado por una persona que
+desempe&#241;e funciones laborales o educativas de manera
+permanente con menores de edad, o tenga con ellos una
+relaci&#243;n directa y constante.
+     j) Si las sustancias traficadas fueren adulteradas,
+manipuladas o mezcladas entre s&#237; o con otras, de
+conformidad con el reglamento, aumentando con ello su
+capacidad de causar da&#241;o f&#237;sico, mental o su potencial
+letalidad.
+     k) Si el delito se cometiere vali&#233;ndose de la
+simulaci&#243;n de actividades de comercio internacional, el uso
+de medios tecnol&#243;gicos avanzados o la implementaci&#243;n de
+aplicaciones virtuales, en todos los casos para facilitar su
+ejecuci&#243;n o encubrir su naturaleza il&#237;cita.
+     l) Si se determinare que parte o la totalidad de las
+sustancias estupefacientes o psicotr&#243;picas objeto del
+tr&#225;fico hubieren sido sustra&#237;das de recintos de salud, de
+instalaciones autorizadas para el almacenamiento o venta de
+suministros e insumos m&#233;dicos, o de lugares destinados a su
+destrucci&#243;n, y el imputado hubiere conocido o no pudiere
+menos que conocer que dichas sustancias provienen de alguno
+de estos lugares.
+     Si concurren dos o m&#225;s de las circunstancias
+se&#241;aladas precedentemente, la pena podr&#225; ser aumentada en
+dos grados.
+     La pena se aumentar&#225; en dos grados cuando quien se
+valga de ni&#241;os, ni&#241;as o adolescentes o personas exentas de
+responsabilidad penal en los t&#233;rminos se&#241;alados en la
+letra e) proveyere de armas de fuego a estos &#250;ltimos para
+alcanzar sus fines delictivos.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">19 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652199">
+              <Texto>     Art&#237;culo 20.- En los delitos contemplados en esta ley
+no proceder&#225; la atenuante de responsabilidad penal
+contenida en el n&#250;mero 7 del art&#237;culo 11 del C&#243;digo
+Penal.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">20 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652200">
+              <Texto>     Art&#237;culo 21.- Para determinar si existe reincidencia
+en los delitos castigados en esta ley, se considerar&#225;n las
+sentencias firmes dictadas en un Estado extranjero, aun
+cuando la pena impuesta no haya sido cumplida.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">21 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+          </EstructurasFuncionales>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="P&#225;rrafo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652202">
+          <Texto>              P&#225;rrafo 3&#186;
+         De la cooperaci&#243;n eficaz
+</Texto>
+          <Metadatos>
+            <NombreParte presente="no">&#160;</NombreParte>
+            <TituloParte presente="si">P&#225;rrafo 3&#186; De la cooperaci&#243;n eficaz</TituloParte>
+            
+          </Metadatos>
+          <EstructurasFuncionales>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2024-09-04" derogado="derogado" idParte="8652201">
+              <Texto>     Art&#237;culo 22.- Derogado.
+</Texto>
+              <Metadatos>
+                <NombreParte presente="si">22 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+                <FechaDerogacion>2024-09-04</FechaDerogacion>
+              </Metadatos>
+            </EstructuraFuncional>
+          </EstructurasFuncionales>
+        </EstructuraFuncional>
+      </EstructurasFuncionales>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="T&#237;tulo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652204">
+      <Texto>              TITULO II
+         De las t&#233;cnicas de investigaci&#243;n
+</Texto>
+      <Metadatos>
+        <NombreParte presente="no">&#160;</NombreParte>
+        <TituloParte presente="si">TITULO II De las t&#233;cnicas de investigaci&#243;n</TituloParte>
+        
+      </Metadatos>
+      <EstructurasFuncionales>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="P&#225;rrafo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652205">
+          <Texto>             P&#225;rrafo 1&#186;
+De las entregas vigiladas o controladas
+</Texto>
+          <Metadatos>
+            <NombreParte presente="no">&#160;</NombreParte>
+            <TituloParte presente="si">P&#225;rrafo 1&#186; De las entregas vigiladas o controladas</TituloParte>
+            
+          </Metadatos>
+          <EstructurasFuncionales>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652203">
+              <Texto>     Art&#237;culo 23.- El Ministerio P&#250;blico podr&#225; autorizar
+que los env&#237;os il&#237;citos o sospechosos de las sustancias a
+que se refieren los art&#237;culos 1&#186; y 2&#186;, o las sustancias
+por las que se hayan sustituido, total o parcialmente, las
+anteriormente mencionadas, los instrumentos que hubieren
+servido o pudieren servir para la comisi&#243;n de alguno de los
+delitos sancionados en esta ley y los efectos de tales
+delitos, se trasladen, guarden, intercepten o circulen
+dentro del territorio nacional, salgan de &#233;l o entren en
+&#233;l, bajo la vigilancia o el control de la autoridad
+correspondiente, con el prop&#243;sito de individualizar a las
+personas que participen en la ejecuci&#243;n de tales hechos,
+conocer sus planes, evitar el uso il&#237;cito de las especies
+referidas o prevenir y comprobar cualquiera de tales
+delitos.
+     Se utilizar&#225; esta t&#233;cnica de investigaci&#243;n cuando se
+presuma fundadamente que ella facilitar&#225; la
+individualizaci&#243;n de otros part&#237;cipes, sea en el pa&#237;s o
+en el extranjero, como, asimismo, el cumplimiento de alguno
+de los fines descritos en el inciso anterior.
+     Cuando las sustancias, instrumentos y efectos del
+delito se encuentren en zonas sujetas a la potestad
+aduanera, el Servicio Nacional de Aduanas observar&#225; las
+instrucciones que imparta el Ministerio P&#250;blico para los
+efectos de aplicar esta t&#233;cnica de investigaci&#243;n.
+     El Ministerio P&#250;blico podr&#225; disponer en cualquier
+momento la suspensi&#243;n de la entrega vigilada o controlada y
+solicitar al juez de garant&#237;a que ordene la detenci&#243;n de
+los part&#237;cipes y la incautaci&#243;n de las sustancias y dem&#225;s
+instrumentos, si las diligencias llegaren a poner en peligro
+la vida o integridad de los funcionarios, agentes
+encubiertos o informantes que intervengan en la operaci&#243;n,
+la recolecci&#243;n de antecedentes importantes para la
+investigaci&#243;n o el aseguramiento de los part&#237;cipes. Lo
+anterior es sin perjuicio de que, si surgiere ese peligro
+durante las diligencias, los funcionarios policiales
+encargados de la entrega vigilada o controlada apliquen las
+normas sobre detenci&#243;n en caso de flagrancia.
+     El Ministerio P&#250;blico deber&#225; adoptar todas las
+medidas necesarias para vigilar las especies y bienes a que
+se alude en el inciso primero, como, asimismo, para proteger
+a todos los que participen en la operaci&#243;n. En el plano
+internacional, la entrega vigilada o controlada se adecuar&#225;
+a lo dispuesto en los acuerdos o tratados internacionales.
+     Sin perjuicio de las facultades que se le confieren en
+los art&#237;culos 47 y siguientes, el Ministerio P&#250;blico
+podr&#225; solicitar a las autoridades policiales y judiciales
+extranjeras, directamente y sin sujeci&#243;n a lo dispuesto en
+los incisos primero y segundo del art&#237;culo 76 del C&#243;digo
+de Procedimiento Civil, la remisi&#243;n de los elementos de
+convicci&#243;n necesarios para acreditar el hecho delictuoso y
+las responsabilidades penales investigadas en el pa&#237;s, de
+conformidad a los convenios y tratados internacionales
+vigentes, como asimismo, otorgar a dichas autoridades
+extranjeras tales antecedentes o elementos de convicci&#243;n.
+     No obstar&#225; a la consumaci&#243;n de los delitos que se
+pesquisen con ocasi&#243;n de una entrega vigilada o controlada,
+el hecho de que en ella se hayan sustituido las sustancias a
+que se refieren los art&#237;culos 1&#186; y 2&#186; de esta ley, o de
+que hayan participado funcionarios, agentes encubiertos,
+agentes reveladores o informantes. La intervenci&#243;n de estos
+&#250;ltimos no ser&#225; considerada inducci&#243;n o instigaci&#243;n al
+delito.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">23 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+          </EstructurasFuncionales>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="P&#225;rrafo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652207">
+          <Texto>              P&#225;rrafo 2&#186;
+De la restricci&#243;n de las comunicaciones y otros medios
+t&#233;cnicos de investigaci&#243;n
+</Texto>
+          <Metadatos>
+            <NombreParte presente="no">&#160;</NombreParte>
+            <TituloParte presente="si">P&#225;rrafo 2&#186; De la restricci&#243;n de las comunicaciones y otros medios t&#233;cnicos de investigaci&#243;n</TituloParte>
+            
+          </Metadatos>
+          <EstructurasFuncionales>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652206">
+              <Texto>     Art&#237;culo 24.- Las medidas de retenci&#243;n e incautaci&#243;n
+de correspondencia, obtenci&#243;n de copias de comunicaciones o
+transmisiones, interceptaci&#243;n de comunicaciones
+telef&#243;nicas y uso de otros medios t&#233;cnicos de
+investigaci&#243;n, se podr&#225;n aplicar respecto de todos los
+delitos previstos en esta ley y cualquiera sea la pena que
+merecieren, de conformidad a las disposiciones pertinentes
+del C&#243;digo Procesal Penal.
+     Sin perjuicio de lo anterior, no regir&#225; lo dispuesto
+en el inciso cuarto del art&#237;culo 222 de ese C&#243;digo, en
+cuanto a indicar circunstanciadamente el nombre y direcci&#243;n
+del afectado por la medida, siendo suficiente consignar las
+circunstancias que lo individualizaren o determinaren.
+     Asimismo, no obstante lo prevenido en el art&#237;culo 167
+de dicho C&#243;digo, si las diligencias ordenadas no dieren
+resultado, el fiscal podr&#225; archivar provisionalmente la
+investigaci&#243;n hasta que aparezcan mejores y nuevos
+antecedentes.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">24 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+          </EstructurasFuncionales>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="P&#225;rrafo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652209">
+          <Texto>              P&#225;rrafo 3&#186;
+Del agente encubierto, el agente revelador y el informante
+</Texto>
+          <Metadatos>
+            <NombreParte presente="no">&#160;</NombreParte>
+            <TituloParte presente="si">P&#225;rrafo 3&#186; Del agente encubierto, el agente revelador y el informante</TituloParte>
+            
+          </Metadatos>
+          <EstructurasFuncionales>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652208">
+              <Texto>     Art&#237;culo 25.- El Ministerio P&#250;blico podr&#225; autorizar
+a funcionarios policiales para que se desempe&#241;en como
+agentes encubiertos o agentes reveladores y, a propuesta de
+dichos funcionarios, para que determinados informantes de
+esos Servicios act&#250;en en alguna de las dos calidades
+anteriores.
+     Agente encubierto es el funcionario policial que oculta
+su identidad oficial y se involucra o introduce en las
+organizaciones delictuales o en meras asociaciones o
+agrupaciones con prop&#243;sitos delictivos, con el objetivo de
+identificar a los participantes, reunir informaci&#243;n y
+recoger antecedentes necesarios para la investigaci&#243;n.
+     El agente encubierto podr&#225; tener una historia
+ficticia. La Direcci&#243;n Nacional del Servicio de Registro
+Civil e Identificaci&#243;n deber&#225; otorgar los medios
+necesarios para la oportuna y debida materializaci&#243;n de
+&#233;sta.
+     Agente revelador es el funcionario policial que simula
+ser comprador o adquirente, para s&#237; o para terceros, de
+sustancias estupefacientes o sicotr&#243;picas, con el
+prop&#243;sito de lograr la manifestaci&#243;n o incautaci&#243;n de la
+droga.
+     Informante es quien suministra antecedentes a los
+organismos policiales acerca de la preparaci&#243;n o comisi&#243;n
+de un delito o de quienes han participado en &#233;l, o que, sin
+tener la intenci&#243;n de cometerlo y con conocimiento de
+dichos organismos, participa en los t&#233;rminos se&#241;alados en
+alguno de los incisos anteriores.
+     El agente encubierto, el agente revelador y el
+informante en sus actuaciones como agente encubierto o
+agente revelador, estar&#225;n exentos de responsabilidad
+criminal por aquellos delitos en que deban incurrir o que no
+hayan podido impedir, siempre que sean consecuencia
+necesaria del desarrollo de la investigaci&#243;n y guarden la
+debida proporcionalidad con la finalidad de la misma.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">25 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+          </EstructurasFuncionales>
+        </EstructuraFuncional>
+      </EstructurasFuncionales>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="T&#237;tulo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652211">
+      <Texto>              TITULO III
+De la competencia del Ministerio P&#250;blico
+</Texto>
+      <Metadatos>
+        <NombreParte presente="no">&#160;</NombreParte>
+        <TituloParte presente="si">TITULO III De la competencia del Ministerio P&#250;blico</TituloParte>
+        
+      </Metadatos>
+      <EstructurasFuncionales>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="P&#225;rrafo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652212">
+          <Texto>              P&#225;rrafo 1&#186;
+           De la investigaci&#243;n
+</Texto>
+          <Metadatos>
+            <NombreParte presente="no">&#160;</NombreParte>
+            <TituloParte presente="si">P&#225;rrafo 1&#186; De la investigaci&#243;n</TituloParte>
+            
+          </Metadatos>
+          <EstructurasFuncionales>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652210">
+              <Texto>     Art&#237;culo 26.- El Ministerio P&#250;blico podr&#225; efectuar
+indagaciones y actuaciones en el extranjero dirigidas a
+recoger antecedentes acerca de hechos constitutivos de
+alguno de los delitos contemplados en la presente ley,
+pudiendo solicitar directamente asesor&#237;a a las
+representaciones diplom&#225;ticas y consulares chilenas.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">26 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652213">
+              <Texto>     Art&#237;culo 27.- El Ministerio P&#250;blico podr&#225; solicitar
+al juez de garant&#237;a que decrete las siguientes medidas
+cautelares, sin comunicaci&#243;n previa al afectado, antes de
+la formalizaci&#243;n de la investigaci&#243;n:
+
+     a) impedir la salida del pa&#237;s de quienes, a lo menos,
+se sospeche fundadamente que est&#225;n vinculados a alguno de
+los delitos previstos en esta ley, por un per&#237;odo m&#225;ximo
+de sesenta d&#237;as. Para estos efectos, deber&#225; comunicar la
+prohibici&#243;n y su alzamiento a la Polic&#237;a de
+Investigaciones y a Carabineros de Chile. En todo caso,
+transcurrido este plazo, la medida de arraigo caducar&#225; por
+el solo ministerio de la ley, de lo cual deber&#225;n tomar nota
+de oficio los organismos se&#241;alados, y 
+     b) ordenar cualquiera medida cautelar real que sea
+necesaria para evitar el uso, aprovechamiento, beneficio o
+destino de cualquier clase de bienes, valores o dineros
+provenientes de los delitos materia de la investigaci&#243;n.
+Para estos efectos, y sin perjuicio de las dem&#225;s facultades
+conferidas por la ley, el juez podr&#225; decretar, entre otras,
+la prohibici&#243;n de celebrar determinados actos y contratos y
+su inscripci&#243;n en toda clase de registros; retener en
+bancos o entidades financieras dep&#243;sitos de cualquiera
+naturaleza que sean; impedir transacciones de acciones,
+bonos o debentures y, en general, cuanto conduzca a evitar
+la conversi&#243;n del provecho il&#237;cito en actividades que
+oculten o disimulen su origen delictual.
+     Tambi&#233;n con la autorizaci&#243;n del juez de garant&#237;a,
+otorgada de conformidad al art&#237;culo 236 del C&#243;digo
+Procesal Penal, el Ministerio P&#250;blico podr&#225;, sin
+comunicaci&#243;n previa al afectado, recoger e incautar la
+documentaci&#243;n y los antecedentes necesarios para la
+investigaci&#243;n de los hechos, en caso de aparecer indicios
+graves que de esta diligencia pudiere resultar el
+descubrimiento o la comprobaci&#243;n de alg&#250;n hecho o
+circunstancia importante para aqu&#233;lla. Se aplicar&#225;, al
+efecto, lo dispuesto en los art&#237;culos 216 y 221 del C&#243;digo
+Procesal Penal.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">27 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652214">
+              <Texto>     Art&#237;culo 28.- Los notarios, conservadores y archiveros
+deber&#225;n entregar al Ministerio P&#250;blico, en forma expedita
+y r&#225;pida, los informes, documentos, copias de instrumentos
+y datos que se les soliciten.
+     El otorgamiento de los antecedentes mencionados en este
+art&#237;culo ser&#225; gratuito y libre de toda clase de derechos e
+impuestos.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">28 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652215">
+              <Texto>     Art&#237;culo 29.- El que se resista o se niegue
+injustificadamente a entregar al Ministerio P&#250;blico los
+informes, documentos y dem&#225;s antecedentes que se le
+soliciten en conformidad al art&#237;culo precedente, ser&#225;
+castigado con la pena de presidio menor en sus grados medio
+a m&#225;ximo.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">29 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-11-14" derogado="no derogado" idParte="8652279">
+              <Texto>     Art&#237;culo 29 bis.- Los ex&#225;menes establecidos en el
+art&#237;culo 197 del C&#243;digo Procesal Penal ser&#225;n tambi&#233;n
+procedentes cuando, en una diligencia de control de
+identidad migratorio, aparezcan fundadas sospechas de que la
+persona cuya identidad se controlare porta dentro de su
+cuerpo, para efectos de transporte, drogas o sustancias
+estupefacientes o sicotr&#243;picas ilegales. En este caso, se
+proceder&#225; de la forma dispuesta en los incisos segundo y
+tercero del art&#237;culo antes citado.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">29 BIS</NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+          </EstructurasFuncionales>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="P&#225;rrafo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652217">
+          <Texto>           P&#225;rrafo 2&#186;
+
+De las medidas de protecci&#243;n a testigos, peritos, agentes
+encubiertos, reveladores, informantes y cooperador eficaz
+</Texto>
+          <Metadatos>
+            <NombreParte presente="no">&#160;</NombreParte>
+            <TituloParte presente="si">P&#225;rrafo 2&#186; De las medidas de protecci&#243;n a testigos, peritos, agentes encubiertos, reveladores, informantes y cooperador eficaz</TituloParte>
+            
+          </Metadatos>
+          <EstructurasFuncionales>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2015-04-21" derogado="no derogado" idParte="8652216">
+              <Texto>     Art&#237;culo 30.- Sin perjuicio de las reglas generales
+sobre protecci&#243;n a los testigos contempladas en el C&#243;digo
+Procesal Penal, en cualquier etapa del procedimiento, cuando
+el Ministerio P&#250;blico estimare, por las circunstancias del
+caso, que existe riesgo o peligro grave para la vida o la
+integridad f&#237;sica de un testigo o de un perito, de un
+informante o de un agente encubierto o revelador y, en
+general de quienes hayan colaborado eficazmente en el
+procedimiento, en los t&#233;rminos del art&#237;culo 22, como
+asimismo de su c&#243;nyuge, o conviviente civil, ascendientes,
+descendientes, hermanos u otras personas a quienes se
+hallaren ligados por relaciones de afecto, dispondr&#225;, de
+oficio o a petici&#243;n de parte, las medidas especiales de
+protecci&#243;n que resulten adecuadas.
+     Para proteger la identidad de los que intervengan en el
+procedimiento, su domicilio, profesi&#243;n y lugar de trabajo,
+el fiscal podr&#225; aplicar medidas tales como:
+     a) que no consten en los registros de las diligencias
+que se practiquen su nombre, apellidos, profesi&#243;n u oficio,
+domicilio, lugar de trabajo, ni cualquier otro dato que
+pudiera servir para la identificaci&#243;n de los mismos,
+pudi&#233;ndose utilizar una clave u otro mecanismo de
+verificaci&#243;n, para esos efectos;
+     b) que su domicilio sea fijado, para efectos de
+notificaciones y citaciones, en la sede de la fiscal&#237;a o
+del tribunal, debiendo el &#243;rgano interviniente hacerlas
+llegar reservadamente a su destinatario, y
+     c) que las diligencias que tengan lugar durante el
+curso de la investigaci&#243;n, a las cuales deba comparecer el
+testigo o perito protegido, se realicen en un lugar distinto
+de aqu&#233;l donde funciona la fiscal&#237;a y de cuya ubicaci&#243;n
+no se dejar&#225; constancia en el registro respectivo.
+</Texto>
+              <Metadatos>
+                <NombreParte presente="si">30 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652218">
+              <Texto>     Art&#237;culo 31.- Dispuesta que sea la medida de
+protecci&#243;n de la identidad a que se refiere el art&#237;culo
+anterior, el tribunal, sin audiencia de los intervinientes,
+deber&#225; decretar la prohibici&#243;n de revelar, en cualquier
+forma, la identidad de testigos o peritos protegidos, o los
+antecedentes que conduzcan a su identificaci&#243;n. Asimismo,
+deber&#225; decretar la prohibici&#243;n para que sean
+fotografiados, o se capte su imagen a trav&#233;s de cualquier
+otro medio.
+     La infracci&#243;n de estas prohibiciones ser&#225; sancionada
+con la pena de reclusi&#243;n menor en su grado medio a m&#225;ximo,
+trat&#225;ndose de quien proporcionare la informaci&#243;n. En caso
+de que la informaci&#243;n fuere difundida por alg&#250;n medio de
+comunicaci&#243;n social, se impondr&#225;, adem&#225;s, a su director,
+una multa de diez a cincuenta unidades tributarias
+mensuales.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">31 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652219">
+              <Texto>     Art&#237;culo 32.- Las declaraciones del cooperador eficaz,
+de los agentes encubiertos, agentes reveladores,
+informantes, y, en general, de testigos y peritos, cuando se
+estimare necesario para su seguridad personal, podr&#225;n ser
+recibidas anticipadamente en conformidad con el art&#237;culo
+191 del C&#243;digo Procesal Penal. En este caso, el juez de
+garant&#237;a podr&#225; disponer que los testimonios de estas
+personas se presten por cualquier medio id&#243;neo que impida
+su identificaci&#243;n f&#237;sica normal. Igual sistema de
+declaraci&#243;n protegida podr&#225; disponerse por el tribunal de
+juicio oral en lo penal, en su caso.
+     Si las declaraciones se han de prestar de conformidad
+al inciso precedente, el tribunal deber&#225; comprobar en forma
+previa la identidad del testigo o perito, en particular los
+antecedentes relativos a sus nombres y apellidos, edad,
+lugar de nacimiento, estado civil, profesi&#243;n, industria o
+empleo y residencia o domicilio. Consignada en el registro
+tal comprobaci&#243;n, el tribunal podr&#225; resolver que se
+excluya del debate cualquier referencia a la identidad que
+pudiere poner en peligro la protecci&#243;n de &#233;sta.
+     En ning&#250;n caso la declaraci&#243;n de cualquier testigo o
+perito protegido podr&#225; ser recibida e introducida al juicio
+sin que la defensa haya podido ejercer su derecho a
+contrainterrogarlo personalmente, con los resguardos
+contemplados en los incisos precedentes.
+     Dispuesta por el fiscal la protecci&#243;n de la identidad
+de los testigos en la etapa de investigaci&#243;n, el tribunal
+deber&#225; mantenerla, sin perjuicio de los otros derechos que
+se confieren a los dem&#225;s intervinientes.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">32 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652220">
+              <Texto>     Art&#237;culo 33.- De oficio o a petici&#243;n del interesado,
+durante el desarrollo del juicio, o incluso una vez que
+&#233;ste hubiere finalizado, si las circunstancias de peligro
+se mantienen, el fiscal o el tribunal otorgar&#225;n protecci&#243;n
+policial a quien la necesitare, de conformidad a lo
+prevenido en el art&#237;culo 308 del C&#243;digo Procesal Penal.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">33 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652221">
+              <Texto>     Art&#237;culo 34.- Las medidas de protecci&#243;n antes
+descritas podr&#225;n ir acompa&#241;adas, en caso de ser necesario,
+de otras medidas complementarias, tales como la provisi&#243;n
+de los recursos econ&#243;micos suficientes para facilitar la
+reinserci&#243;n del sujeto u otra medida que se estime id&#243;nea
+en funci&#243;n del caso.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">34 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652222">
+              <Texto>     Art&#237;culo 35.- El tribunal podr&#225; autorizar a estas
+personas para cambiar de identidad, con posterioridad al
+juicio, en caso de ser necesario para su seguridad.
+     La Direcci&#243;n Nacional del Servicio de Registro Civil e
+Identificaci&#243;n adoptar&#225; todos los resguardos necesarios
+para asegurar el car&#225;cter secreto de estas medidas,
+conforme al reglamento que se dicte al efecto.
+     Todas las actuaciones judiciales y administrativas a
+que d&#233; lugar esta medida ser&#225;n secretas. El funcionario
+del Estado que violare este sigilo ser&#225; sancionado con la
+pena de presidio menor en sus grados medio a m&#225;ximo.
+     Quienes hayan sido autorizados para cambiar de
+identidad s&#243;lo podr&#225;n usar sus nuevos nombres y apellidos
+en el futuro. El uso malicioso de su anterior identidad
+ser&#225; sancionado con la pena de presidio menor en su grado
+m&#237;nimo.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">35 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652223">
+              <Texto>     Art&#237;culo 36.- Cuando se trate de la investigaci&#243;n de
+los delitos a que se refiere esta ley, si el Ministerio
+P&#250;blico estimare que existe riesgo para la seguridad de los
+agentes encubiertos, agentes reveladores, informantes,
+testigos, peritos y, en general, de quienes hayan cooperado
+eficazmente en el procedimiento podr&#225; disponer que
+determinadas actuaciones, registros o documentos sean
+mantenidos en secreto respecto de uno o m&#225;s intervinientes.
+     Se aplicar&#225; lo dispuesto en el art&#237;culo 182 del
+C&#243;digo Procesal Penal, pero el Ministerio P&#250;blico podr&#225;
+disponer que se mantenga el secreto hasta el cierre de la
+investigaci&#243;n. Adem&#225;s, deber&#225; adoptar medidas para
+garantizar que el t&#233;rmino del secreto no ponga en riesgo la
+seguridad de las personas mencionadas en el inciso anterior.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">36 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652224">
+              <Texto>     Art&#237;culo 37.- La violaci&#243;n del secreto de la
+investigaci&#243;n y de la identidad de las personas a que se
+refieren los art&#237;culos precedentes ser&#225; castigada con
+presidio menor en sus grados medio a m&#225;ximo.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">37 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+          </EstructurasFuncionales>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="P&#225;rrafo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652226">
+          <Texto>              P&#225;rrafo 3&#186;
+
+De las medidas para asegurar el mejor resultado de la
+Investigaci&#243;n
+</Texto>
+          <Metadatos>
+            <NombreParte presente="no">&#160;</NombreParte>
+            <TituloParte presente="si">P&#225;rrafo 3&#186; De las medidas para asegurar el mejor resultado de la Investigaci&#243;n</TituloParte>
+            
+          </Metadatos>
+          <EstructurasFuncionales>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652225">
+              <Texto>     Art&#237;culo 38.- Sin perjuicio de lo dispuesto en el
+art&#237;culo 36, la investigaci&#243;n de los delitos a que se
+refiere esta ley ser&#225; siempre secreta para los terceros
+ajenos al procedimiento y tambi&#233;n para los terceros
+afectados por una investigaci&#243;n preliminar del Ministerio
+P&#250;blico. Respecto del imputado y de los dem&#225;s
+intervinientes, la investigaci&#243;n ser&#225; secreta cuando as&#237;
+lo disponga el Ministerio P&#250;blico, por un plazo m&#225;ximo de
+ciento veinte d&#237;as, renovables sucesivamente, con
+autorizaci&#243;n del juez de garant&#237;a, por plazos m&#225;ximos de
+sesenta d&#237;as.
+     A estas investigaciones no les ser&#225; aplicable lo
+dispuesto en el art&#237;culo 186 del C&#243;digo Procesal Penal,
+cuando se haya decretado el secreto en los t&#233;rminos
+se&#241;alados en el inciso precedente.
+     El que de cualquier modo informe, difunda o divulgue
+informaci&#243;n relativa a una investigaci&#243;n amparada por el
+secreto e, incluso, al hecho de estarse realizando &#233;sta,
+incurrir&#225; en la pena de presidio menor en su grado medio a
+m&#225;ximo.
+
+</Texto>
+              <Metadatos>
+                <NombreParte presente="si">38 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652227">
+              <Texto>     Art&#237;culo 39.- Trat&#225;ndose de la investigaci&#243;n de los
+delitos establecidos en esta ley, el plazo contemplado en el
+inciso segundo del art&#237;culo 132 del C&#243;digo Procesal Penal
+podr&#225; ser ampliado por el juez de garant&#237;a hasta por el
+t&#233;rmino de cinco d&#237;as, cuando el fiscal as&#237; lo solicite,
+por ser conducente para el &#233;xito de alguna diligencia. El
+juez se pronunciar&#225; de inmediato sobre dicha petici&#243;n, que
+podr&#225; ser formulada y resuelta de conformidad con lo
+prevenido en el art&#237;culo 9&#186; del C&#243;digo Procesal Penal.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">39 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2023-05-23" derogado="no derogado" idParte="8652228">
+              <Texto>     Art&#237;culo 40.- Los bienes muebles e inmuebles,
+instrumentos, objetos de cualquier clase y los efectos
+incautados de los delitos a que se refiere esta ley y de que
+se hace menci&#243;n en los art&#237;culos 187 y 188 del C&#243;digo
+Procesal Penal, podr&#225;n ser destinados provisionalmente por
+el juez de garant&#237;a, a solicitud del Ministerio P&#250;blico, a
+una instituci&#243;n del Estado o, previa cauci&#243;n, a una
+instituci&#243;n privada sin fines de lucro, que tenga como
+objetivo la prevenci&#243;n del consumo indebido, el tratamiento
+y la rehabilitaci&#243;n de las personas afectadas por la
+drogadicci&#243;n, o el control del tr&#225;fico ilegal de
+estupefacientes. Asimismo, los bienes podr&#225;n ser destinados
+provisionalmente a unidades policiales que participen en la
+investigaci&#243;n y desarticulaci&#243;n de organizaciones
+criminales destinadas a cometer los delitos sancionados en
+la presente ley. En todo caso, cada instituci&#243;n deber&#225;
+acreditar recursos suficientes para hacerse cargo de los
+costos de conservaci&#243;n, los que se financiar&#225;n con cargo a
+su presupuesto. Los inmuebles incautados y destinados
+provisionalmente estar&#225;n exentos del pago de impuestos,
+contribuciones o cargas mientras subsista la incautaci&#243;n.
+Para estos efectos, el juez de garant&#237;a informar&#225; al
+Servicio de Impuestos Internos, a la Tesorer&#237;a General de
+la Rep&#250;blica y a la municipalidad de la comuna en la que se
+encuentre el bien respectivo, la destinaci&#243;n provisional y,
+cuando fuere procedente, su t&#233;rmino, en ambos casos
+mediante remisi&#243;n de copia de la resoluci&#243;n que as&#237; lo
+disponga. La instituci&#243;n destinataria de inmuebles
+incautados asumir&#225; la responsabilidad de su administraci&#243;n
+y deber&#225; rendir cuentas de su gesti&#243;n al juez de garant&#237;a
+a lo menos trimestralmente.
+     Para efectos de la solicitud del Ministerio P&#250;blico
+sobre destinaci&#243;n provisoria, se deber&#225; oficiar al
+Servicio Nacional para la Prevenci&#243;n y Rehabilitaci&#243;n del
+Consumo de Drogas y Alcohol, el que podr&#225; contestar por
+escrito, dentro de quinto d&#237;a de notificado. De no recibir
+respuesta dentro de plazo, se entender&#225; que el Servicio
+concurre con la decisi&#243;n del Ministerio P&#250;blico.
+     La incautaci&#243;n de las armas se regir&#225; por la ley N&#186;
+17.798, sobre Control de Armas. Los dineros se depositar&#225;n
+en el Banco del Estado de Chile, en cuentas o valores
+reajustables.
+     Si la incautaci&#243;n recae sobre establecimientos
+industriales o mercantiles, sementeras, plant&#237;os o en
+general frutos pendientes, el juez de garant&#237;a, a solicitud
+del Ministerio P&#250;blico, designar&#225; un administrador
+provisional, quien deber&#225; rendir cuenta de su gesti&#243;n a
+este &#250;ltimo, a lo menos trimestralmente. La incautaci&#243;n de
+un inmueble comprende la de sus frutos o rentas.
+     El Ministerio P&#250;blico deber&#225; informar trimestralmente
+al Ministerio del Interior y Seguridad P&#250;blica y al
+Servicio Nacional para la Prevenci&#243;n y Rehabilitaci&#243;n del
+Consumo de Drogas y Alcohol, sobre los dineros, valores y
+dem&#225;s bienes incautados conforme a esta ley. El Ministerio
+del Interior y Seguridad P&#250;blica deber&#225; dictar un
+reglamento para regular las materias que trata este
+p&#225;rrafo.
+</Texto>
+              <Metadatos>
+                <NombreParte presente="si">40 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2023-05-23" derogado="no derogado" idParte="10433087">
+              <Texto>     Art&#237;culo 40 bis.- A solicitud del Ministerio P&#250;blico
+o del Servicio Nacional para la Prevenci&#243;n y
+Rehabilitaci&#243;n del Consumo de Drogas y Alcohol, el juez de
+garant&#237;a podr&#225; disponer la enajenaci&#243;n temprana de los
+bienes incautados, siempre que se trate de veh&#237;culos
+motorizados, o bienes respecto de los cuales existan
+antecedentes de que contin&#250;an siendo utilizados en
+actividades il&#237;citas, o se trate de bienes sujetos a
+corrupci&#243;n, susceptibles de pr&#243;ximo deterioro, cuya
+conservaci&#243;n sea dif&#237;cil o muy dispendiosa.
+     Para estos efectos, el juez de garant&#237;a deber&#225;
+oficiar al Servicio Nacional para la Prevenci&#243;n y
+Rehabilitaci&#243;n del Consumo de Drogas y Alcohol para que
+tome conocimiento de la resoluci&#243;n que dispone la
+enajenaci&#243;n temprana, y tambi&#233;n deber&#225; oficiar a la
+Direcci&#243;n General del Cr&#233;dito Prendario para que informe
+sobre la tasaci&#243;n del respectivo bien. En caso de que &#233;ste
+deba ser destruido por carecer de valor, de conformidad a lo
+dispuesto en el inciso primero del art&#237;culo 46, el juez de
+garant&#237;a as&#237; deber&#225; decretarlo en la resoluci&#243;n.
+     Si el bien figura inscrito en alg&#250;n registro p&#250;blico,
+sea que acredite o no propiedad, el juez de garant&#237;a, antes
+de resolver la enajenaci&#243;n temprana, deber&#225; citar a
+quienes figuren como titulares de derechos en dichos
+registros. En caso de que el citado no comparezca a la
+audiencia de enajenaci&#243;n temprana, se proceder&#225; en su
+ausencia.
+     La enajenaci&#243;n se llevar&#225; a cabo por la Direcci&#243;n
+General del Cr&#233;dito Prendario en subasta p&#250;blica cuando la
+resoluci&#243;n que disponga la enajenaci&#243;n se encuentre firme
+o ejecutoriada, de acuerdo con lo dispuesto en el art&#237;culo
+46 y en el art&#237;culo 468 bis del C&#243;digo Procesal Penal.
+     El monto de lo obtenido en la subasta ser&#225; depositado
+en el Banco del Estado de Chile, en cuentas o valores
+reajustables y con intereses.
+     En el evento que la sentencia no establezca el comiso
+de las especies enajenadas, el precio de la venta, sus
+reajustes e intereses ser&#225;n restituidos a quien
+corresponda.
+     </Texto>
+              <Metadatos>
+                <NombreParte presente="si">40 BIS</NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2023-05-23" derogado="no derogado" idParte="8652229">
+              <Texto>     Art&#237;culo 41.- Sin perjuicio de lo dispuesto en el
+art&#237;culo 23, las sustancias y especies a que se refieren
+los art&#237;culos 1&#186;, 2&#186;, 5 bis y 8&#186; y, en su caso, las
+materias primas empleadas en su elaboraci&#243;n, que sean
+incautadas en conformidad a la ley, deber&#225;n ser entregadas
+dentro de las veinticuatro horas siguientes al Servicio de
+Salud que corresponda.
+     Con todo, cuando circunstancias especiales as&#237; lo
+aconsejen, el juez de garant&#237;a, a solicitud del Ministerio
+P&#250;blico, podr&#225; ampliar este plazo hasta en cuarenta y ocho
+horas, a solicitud de los funcionarios que hubieren
+incautado las referidas sustancias o materias primas.
+     Las sustancias estupefacientes o sicotr&#243;picas y sus
+materias primas y las que contengan gases o solventes
+inhalantes, as&#237; como sus contenedores, deber&#225;n destruirse
+en el plazo de quince d&#237;as por el Servicio de Salud
+respectivo, una vez separada una cantidad t&#233;cnicamente
+suficiente para los an&#225;lisis de que trata el art&#237;culo 43,
+siempre que respecto de dichas sustancias no se discuta su
+leg&#237;tima tenencia o posesi&#243;n por terceros.
+     </Texto>
+              <Metadatos>
+                <NombreParte presente="si">41 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652230">
+              <Texto>     Art&#237;culo 42.- Los funcionarios responsables del
+retardo en el cumplimiento de las obligaciones impuestas en
+el art&#237;culo anterior ser&#225;n sancionados con una multa a
+beneficio fiscal equivalente al cinco por ciento de su
+remuneraci&#243;n imponible mensual, por cada d&#237;a de atraso,
+sin que pueda exceder del total de dicha remuneraci&#243;n. </Texto>
+              <Metadatos>
+                <NombreParte presente="si">42 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2026-05-23" derogado="no derogado" idParte="8652231">
+              <Texto>     Art&#237;culo 43.- El Servicio de Salud deber&#225; remitir al
+Ministerio P&#250;blico, en el m&#225;s breve plazo, el que no
+podr&#225; exceder de treinta d&#237;as, un protocolo del an&#225;lisis
+qu&#237;mico de la sustancia suministrada, en el que se
+identificar&#225; el producto y se se&#241;alar&#225; su peso o
+cantidad, su naturaleza, contenido y composici&#243;n, como,
+asimismo, un informe acerca de los componentes t&#243;xicos y
+sicoactivos asociados, los efectos que produzca y la
+peligrosidad que revista para la salud p&#250;blica.
+     Conservar&#225;, en todo caso, una determinada cantidad de
+dicha sustancia para el evento de que cualquiera de los
+intervinientes solicite nuevos an&#225;lisis de la misma, de
+conformidad a los art&#237;culos 188, inciso tercero, y 320 del
+C&#243;digo Procesal Penal.
+     Esta muestra se conservar&#225; por el plazo m&#225;ximo de dos
+a&#241;os, al cabo del cual se destruir&#225;. De los procedimientos
+administrativos de destrucci&#243;n se levantar&#225; acta, copia de
+la cual deber&#225; hacerse llegar al Ministerio P&#250;blico dentro
+de quinto d&#237;a de haberse producido.
+     Efectuado el an&#225;lisis a que se refiere el inciso
+primero, los precursores y sustancias qu&#237;micas esenciales
+deber&#225;n ser enajenados en la forma dispuesta en el inciso
+cuarto del art&#237;culo 40.
+     Efectuado el an&#225;lisis a que se refiere el inciso
+primero, los precursores y sustancias qu&#237;micas esenciales
+deber&#225;n ser enajenados en la forma dispuesta en el
+art&#237;culo 40 bis; o a trav&#233;s de venta directa, a solicitud
+del Ministerio P&#250;blico con autorizaci&#243;n del juez de
+garant&#237;a; o destruidos por el Servicio de Salud respectivo,
+conforme a lo dispuesto en el inciso tercero del art&#237;culo
+41.
+     </Texto>
+              <Metadatos>
+                <NombreParte presente="si">43 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652232">
+              <Texto>     Art&#237;culo 44.- Cuando las sustancias estupefacientes o
+sicotr&#243;picas incautadas, las plantas o materias primas, con
+excepci&#243;n de los precursores y sustancias qu&#237;micas
+esenciales, hagan dif&#237;cil, por su cantidad, lugar de
+ubicaci&#243;n u otras circunstancias, su traslado y
+almacenamiento, el juez de garant&#237;a, a petici&#243;n del
+Ministerio P&#250;blico, decretar&#225; su incineraci&#243;n o
+destrucci&#243;n en el mismo lugar donde hubieren sido
+encontradas, debiendo, en este caso, darse cumplimiento a
+las dem&#225;s normas de los art&#237;culos 40 a 43. </Texto>
+              <Metadatos>
+                <NombreParte presente="si">44 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2023-05-23" derogado="no derogado" idParte="8652233">
+              <Texto>     Art&#237;culo 45.- Sin perjuicio de las reglas generales,
+caer&#225;n especialmente en comiso los bienes ra&#237;ces; los
+muebles, tales como veh&#237;culos motorizados terrestres, naves
+y aeronaves, dinero, efectos de comercio y valores
+mobiliarios; y, en general, todo otro instrumento que haya
+servido o hubiere estado destinado a la comisi&#243;n de
+cualquiera de los delitos penados en esta ley; los efectos
+que de ellos provengan y las utilidades que hubieren
+originado, cualquiera que sea su naturaleza jur&#237;dica, o las
+transformaciones que hubieren experimentado, como, asimismo,
+todos aquellos bienes facilitados o adquiridos por terceros
+a sabiendas o no pudiendo menos que conocer del destino u
+origen de los mismos.
+     Igual sanci&#243;n se aplicar&#225; respecto de las sustancias
+se&#241;aladas en el inciso primero del art&#237;culo 2&#186;, y de las
+materias primas, elementos, materiales, equipos e
+instrumentos usados o destinados a ser utilizados, en
+cualquier forma, para cometer alguno de los delitos
+sancionados en esta ley.
+     Se impondr&#225; el comiso de toda cosa que hubiere sido
+empleada como instrumento en la perpetraci&#243;n de un delito
+previsto en esta ley y que fuere especialmente apta para ser
+utilizada delictivamente. Se entender&#225; que son
+especialmente aptas para ser utilizadas delictivamente
+aquellas cosas que se encuentren en general prohibidas por
+la ley. El tribunal deber&#225; decretar el comiso de cosas
+especialmente aptas para ser utilizadas delictivamente
+incluso cuando el imputado fuere absuelto o sobrese&#237;do.
+Para ello bastar&#225; el establecimiento de su uso en un hecho
+delictivo. El comiso de instrumentos especialmente aptos
+para ser utilizados delictivamente proceder&#225; aun respecto
+del tercero de buena fe y que tuviere t&#237;tulo para poseer la
+cosa, a menos que se acredite que &#233;l no tuvo
+responsabilidad en el uso de la cosa por parte del hechor.
+Si el comiso afecta a un tercero de buena fe, &#233;ste podr&#225;
+solicitar indemnizaci&#243;n al responsable.
+     El comiso de una cosa que no fuere especialmente apta
+para ser utilizada delictivamente y que ha servido de
+instrumento en la perpetraci&#243;n del delito ser&#225; impuesto en
+la sentencia condenatoria y no proceder&#225; respecto del
+tercero de buena fe.
+     Se impondr&#225; el comiso de toda cosa obtenida o
+producida a trav&#233;s de la perpetraci&#243;n de un delito
+previsto en esta ley. El comiso de los efectos del delito
+ser&#225; decretado por el juez incluso si el imputado fuere
+absuelto o sobrese&#237;do, siempre que se establezca que la
+cosa proviene de un hecho il&#237;cito. Dicho comiso no
+proceder&#225; respecto del tercero de buena fe. Trat&#225;ndose de
+efectos de posesi&#243;n il&#237;cita, el comiso proceder&#225; en todos
+los casos.
+     Cuando por cualquier circunstancia no sea posible
+decomisar las especies se&#241;aladas en este art&#237;culo que han
+sido usadas como instrumentos en la perpetraci&#243;n del delito
+o que han sido obtenidas o producidas a trav&#233;s de su
+perpetraci&#243;n, el tribunal aplicar&#225; el comiso a una suma de
+dinero equivalente a su valor o a otros bienes que sean de
+propiedad del condenado.
+     El tribunal podr&#225; decretar el comiso de los activos
+patrimoniales cuyo valor corresponda a la cuant&#237;a de las
+ganancias obtenidas a trav&#233;s de la perpetraci&#243;n de un
+delito sancionado en la presente ley cuando establezca que
+tales ganancias provienen de los delitos objeto de la
+condena. Las ganancias comprenden los frutos y las
+utilidades que el delito ha originado, cualquiera sea su
+naturaleza jur&#237;dica, as&#237; como el equivalente a los costos
+evitados mediante el hecho il&#237;cito. Siempre que se
+establezca que las ganancias proceden de un hecho il&#237;cito
+el juez decretar&#225; el comiso de ellas, aunque el imputado
+fuere sobrese&#237;do o absuelto.
+     Trat&#225;ndose de delitos de esta ley perpetrados de
+conformidad con la modalidad descrita en el art&#237;culo 16, se
+impondr&#225; el comiso de todos los activos vinculados a la
+actividad en cuyo contexto se hubiere ejecutado el delito
+objeto de la condena, a menos que se acredite su origen
+l&#237;cito.
+     </Texto>
+              <Metadatos>
+                <NombreParte presente="si">45 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2024-09-04" derogado="no derogado" idParte="8652234">
+              <Texto>     Art&#237;culo 46.- Los bienes decomisados en conformidad a
+esta ley ser&#225;n enajenados en subasta p&#250;blica por la
+Direcci&#243;n General del Cr&#233;dito Prendario, la que podr&#225;,
+adem&#225;s, ordenar su destrucci&#243;n, por carecer de valor, lo
+que ser&#225; determinado por el Departamento de Tasaciones de
+dicha instituci&#243;n.
+     Una vez decretado el comiso de un inmueble que haya
+sido destinado provisionalmente al Servicio Nacional para la
+Prevenci&#243;n y Rehabilitaci&#243;n del Consumo de Drogas y
+Alcohol o a otro organismo p&#250;blico, &#233;ste, previa
+autorizaci&#243;n de la Direcci&#243;n de Presupuestos, podr&#225;
+solicitar al juez de garant&#237;a que le sea transferido su
+dominio, con fines de prevenci&#243;n y rehabilitaci&#243;n del
+consumo de drogas o alcohol, sin que proceda en este caso la
+enajenaci&#243;n en p&#250;blica subasta establecida en el art&#237;culo
+469 del C&#243;digo Procesal Penal.
+     El producto de la enajenaci&#243;n de los bienes y valores
+decomisados y los dineros en tal situaci&#243;n, el producto de
+la enajenaci&#243;n temprana a que se refiere el art&#237;culo 40
+bis, as&#237; como los dineros incautados no decomisados y no
+reclamados por sus due&#241;os, ingresar&#225;n a un fondo especial
+del Servicio Nacional para la Prevenci&#243;n y Rehabilitaci&#243;n
+del Consumo de Drogas y Alcohol, con el objetivo de ser
+utilizados en programas de prevenci&#243;n del consumo de drogas
+y alcohol, tratamiento y rehabilitaci&#243;n de las personas
+afectadas por la drogadicci&#243;n y alcoholismo. Asimismo,
+podr&#225; ser utilizado en proyectos, estudios e
+investigaciones, infraestructura y capacitaciones, que
+permitan apoyar directamente el efectivo cumplimiento de la
+labor del Servicio. Un reglamento establecer&#225; la forma de
+distribuci&#243;n de los fondos, as&#237; como los mecanismos que
+garanticen la transparencia de los actos tendientes a su
+traspaso.
+     No obstante lo anterior, parte de dichos recursos
+podr&#225;n ser destinados a las unidades del Ministerio
+P&#250;blico que cumplan funciones de an&#225;lisis, investigaci&#243;n
+o persecuci&#243;n del crimen organizado dedicado a la comisi&#243;n
+de los delitos sancionados en la presente ley, as&#237; como
+tambi&#233;n a las unidades de Carabineros de Chile,
+Gendarmer&#237;a de Chile, Direcci&#243;n General del Territorio
+Mar&#237;timo y de Marina Mercante y de la Polic&#237;a de
+Investigaciones de Chile que tengan como objeto la
+desarticulaci&#243;n de organizaciones criminales dedicadas a la
+perpetraci&#243;n de dichos delitos, en la forma que establezca
+el reglamento se&#241;alado en el inciso anterior.
+     Igual aplicaci&#243;n se dar&#225; al monto de las multas
+impuestas en esta ley y al precio de la subasta de las
+especies de que hace menci&#243;n el art&#237;culo 470 del C&#243;digo
+Procesal Penal. Se except&#250;an de esta disposici&#243;n las armas
+de fuego y dem&#225;s elementos a que se refiere la ley N&#186;
+17.798, sobre Control de Armas.
+     El tribunal deber&#225; informar al Servicio Nacional para
+la Prevenci&#243;n y Rehabilitaci&#243;n del Consumo de Drogas y
+Alcohol sobre los bienes que hubieran sido declarados en
+comiso, as&#237; como de las multas impuestas en conformidad con
+esta ley, dentro de los quince d&#237;as h&#225;biles a la fecha en
+que la sentencia que as&#237; lo decreta haya quedado
+ejecutoriada.
+     En lo no contemplado en esta ley, regir&#225;n las reglas
+generales contenidas en el P&#225;rrafo 2&#186; del T&#237;tulo VIII del
+Libro Cuarto del C&#243;digo Procesal Penal.
+     El Fondo a que se refiere este art&#237;culo ser&#225; el
+continuador del Fondo establecido en el art&#237;culo 28 de la
+ley N&#186; 19.366.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">46 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+          </EstructurasFuncionales>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="P&#225;rrafo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652236">
+          <Texto>              P&#225;rrafo 4&#186;
+
+De la Cooperaci&#243;n Internacional
+</Texto>
+          <Metadatos>
+            <NombreParte presente="no">&#160;</NombreParte>
+            <TituloParte presente="si">P&#225;rrafo 4&#186; De la Cooperaci&#243;n Internacional</TituloParte>
+            
+          </Metadatos>
+          <EstructurasFuncionales>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652235">
+              <Texto>     Art&#237;culo 47.- El Ministerio P&#250;blico, directamente y
+sin sujeci&#243;n a lo dispuesto en los incisos primero y
+segundo del art&#237;culo 76 del C&#243;digo de Procedimiento Civil,
+podr&#225; requerir y otorgar cooperaci&#243;n y asistencia
+internacional destinada al &#233;xito de las investigaciones
+sobre los delitos materia de esta ley, de acuerdo con lo
+pactado en convenciones o tratados internacionales, pudiendo
+proporcionar antecedentes espec&#237;ficos, aun cuando ellos se
+encontraren en la situaci&#243;n prevista en el inciso tercero
+del art&#237;culo 182 del C&#243;digo Procesal Penal.
+     Igualmente, a solicitud de las entidades de pa&#237;ses
+extranjeros que correspondan, podr&#225; proporcionar
+informaci&#243;n sobre operaciones sujetas a secreto o reserva
+legal a las que haya tenido acceso en conformidad con la
+legislaci&#243;n nacional aplicable, con el fin de ser utilizada
+en la investigaci&#243;n de aquellos delitos, h&#225;yanse cometido
+en Chile o en el extranjero. La entrega de la informaci&#243;n
+solicitada deber&#225; condicionarse a que &#233;sta no ser&#225;
+utilizada con fines diferentes a los se&#241;alados
+anteriormente y a que ella mantendr&#225; su car&#225;cter
+confidencial.
+     Los antecedentes, documentos y dem&#225;s medios de prueba
+obtenidos seg&#250;n este art&#237;culo y lo pactado en convenciones
+o tratados internacionales se entender&#225;n producidos
+conforme a la ley, independientemente de lo que se resuelva,
+con posterioridad, sobre su incorporaci&#243;n al juicio, o el
+m&#233;rito probatorio que el tribunal le asigne.
+
+</Texto>
+              <Metadatos>
+                <NombreParte presente="si">47 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652237">
+              <Texto>     Art&#237;culo 48.- Los delitos de esta ley ser&#225;n
+susceptibles de extradici&#243;n, tanto activa como pasiva, aun
+en ausencia de reciprocidad o de tratado sobre la materia.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">48 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652238">
+              <Texto>     Art&#237;culo 49.- El Ministro de Justicia podr&#225; disponer,
+de acuerdo con los tratados internacionales vigentes sobre
+la materia o sobre la base del principio de reciprocidad,
+que los extranjeros condenados por alguno de los delitos
+contemplados en esta ley cumplan en el pa&#237;s de su
+nacionalidad las penas corporales que les hubieren sido
+impuestas.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">49 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+          </EstructurasFuncionales>
+        </EstructuraFuncional>
+      </EstructurasFuncionales>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="T&#237;tulo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652240">
+      <Texto>              TITULO IV
+            De las faltas
+</Texto>
+      <Metadatos>
+        <NombreParte presente="no">&#160;</NombreParte>
+        <TituloParte presente="si">TITULO IV De las faltas</TituloParte>
+        
+      </Metadatos>
+      <EstructurasFuncionales>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="P&#225;rrafo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652241">
+          <Texto>            De las faltas
+
+              P&#225;rrafo 1&#186;
+</Texto>
+          <Metadatos>
+            <NombreParte presente="no">&#160;</NombreParte>
+            <TituloParte presente="si">P&#225;rrafo 1&#186; De las faltas comunes</TituloParte>
+            
+          </Metadatos>
+          <EstructurasFuncionales>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2011-02-21" derogado="no derogado" idParte="8652239">
+              <Texto>     Art&#237;culo 50.- Los que consumieren alguna de las drogas
+o sustancias estupefacientes o sicotr&#243;picas de que hace
+menci&#243;n el art&#237;culo 1&#186;, en lugares p&#250;blicos o abiertos
+al p&#250;blico, tales como calles, caminos, plazas, teatros,
+cines, hoteles, caf&#233;s, restaurantes, bares, estadios,
+centros de baile o de m&#250;sica; o en establecimientos
+educacionales o de capacitaci&#243;n, ser&#225;n sancionados con
+alguna de las siguientes penas:
+     a) Multa de una a diez unidades tributarias mensuales.
+     b) Asistencia obligatoria a programas de prevenci&#243;n
+hasta por sesenta d&#237;as, o tratamiento o rehabilitaci&#243;n en
+su caso por un per&#237;odo de hasta ciento ochenta d&#237;as en
+instituciones autorizadas por el Servicio de Salud
+competente. Para estos efectos, el Ministerio de Salud o el
+Servicio Nacional para la Prevenci&#243;n y Rehabilitaci&#243;n del
+Consumo de Drogas y Alcohol deber&#225;n asignar preferentemente
+los recursos que se requieran.
+     c) Participaci&#243;n en actividades determinadas a
+beneficio de la comunidad, con acuerdo del infractor y a
+propuesta del departamento social de la municipalidad
+respectiva, hasta por un m&#225;ximo de treinta horas, o en
+cursos de capacitaci&#243;n por un n&#250;mero de horas suficientes
+para el aprendizaje de la t&#233;cnica o arte objeto del curso.
+Para estos efectos, cada municipalidad deber&#225; anualmente
+informar a el o los juzgados de garant&#237;a correspondientes
+acerca de los programas en beneficio de la comunidad de que
+disponga. El juez deber&#225; indicar el tipo de actividades a
+que se refiere esta letra, el lugar en que se desarrollar&#225;n
+y el organismo o autoridad encargada de su supervisi&#243;n.
+Esta medida se cumplir&#225; sin afectar la jornada educacional
+o laboral del infractor.
+     Se aplicar&#225; como pena accesoria, en su caso, la
+suspensi&#243;n de la licencia para conducir veh&#237;culos
+motorizados por un plazo m&#225;ximo de seis meses. En caso de
+reincidencia, la suspensi&#243;n ser&#225; de hasta un a&#241;o y, de
+reincidir nuevamente, podr&#225; extenderse hasta por dos a&#241;os.
+Esta medida no podr&#225; ser suspendida, ni aun cuando el juez
+hiciere uso de la facultad contemplada en el art&#237;culo 398
+del C&#243;digo Procesal Penal.
+     Id&#233;nticas penas se aplicar&#225;n a quienes tengan o
+porten en tales lugares las drogas o sustancias antes
+indicadas para su uso o consumo personal exclusivo y
+pr&#243;ximo en el tiempo.
+     Con las mismas penas ser&#225;n sancionados quienes
+consuman dichas drogas en lugares o recintos privados, si se
+hubiesen concertado para tal prop&#243;sito.
+     Se entender&#225; justificado el uso, consumo, porte o
+tenencia de alguna de dichas sustancias para la atenci&#243;n de
+un tratamiento m&#233;dico.
+</Texto>
+              <Metadatos>
+                <NombreParte presente="si">50 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+          </EstructurasFuncionales>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="P&#225;rrafo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652243">
+          <Texto>              P&#225;rrafo 2&#186;
+         De las faltas especiales
+</Texto>
+          <Metadatos>
+            <NombreParte presente="no">&#160;</NombreParte>
+            <TituloParte presente="si">P&#225;rrafo 2&#186; De las faltas especiales</TituloParte>
+            
+          </Metadatos>
+          <EstructurasFuncionales>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652242">
+              <Texto>     Art&#237;culo 51.- Si la falta de que hace menci&#243;n el
+art&#237;culo anterior se cometiere en un lugar de detenci&#243;n,
+recinto militar o policial por personas ajenas a &#233;l o en un
+establecimiento educacional o de salud por quienes se
+desempe&#241;en como docentes o trabajadores, la sanci&#243;n
+pecuniaria se aplicar&#225; en su m&#225;ximo.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">51 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+          </EstructurasFuncionales>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="P&#225;rrafo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652245">
+          <Texto>              P&#225;rrafo 3&#186;
+
+     De la aplicaci&#243;n de la pena
+</Texto>
+          <Metadatos>
+            <NombreParte presente="no">&#160;</NombreParte>
+            <TituloParte presente="si">P&#225;rrafo 3&#186; De la aplicaci&#243;n de la pena</TituloParte>
+            
+          </Metadatos>
+          <EstructurasFuncionales>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2012-06-08" derogado="no derogado" idParte="8652244">
+              <Texto>     Art&#237;culo 52.- Si el sentenciado no pagare la multa
+impuesta en virtud de la letra a) del art&#237;culo 50, el
+tribunal podr&#225; aplicar, por v&#237;a de sustituci&#243;n, la pena
+de asistencia obligatoria a programas de prevenci&#243;n hasta
+por 60 d&#237;as, o de tratamiento o rehabilitaci&#243;n, en su
+caso, por un per&#237;odo de hasta 180 d&#237;as, en instituciones
+autorizadas por el servicio de salud competente, o la pena
+de prestaci&#243;n de servicios en beneficio de la comunidad.
+     Para proceder a cualquiera de dichas sustituciones, se
+requerir&#225; del acuerdo del condenado. En caso contrario, el
+tribunal impondr&#225;, por v&#237;a de sustituci&#243;n y apremio de la
+multa, la pena de reclusi&#243;n, regul&#225;ndose un d&#237;a por cada
+tercio de unidad tributaria mensual, sin que ella pueda
+nunca exceder de seis meses.
+     En caso de incumplimiento de las penas de asistencia
+obligatoria a programas de prevenci&#243;n o de tratamiento o
+rehabilitaci&#243;n, el encargado de la respectiva instituci&#243;n
+informar&#225; al tribunal que haya impuesto la sanci&#243;n, el que
+lo citar&#225; a una audiencia, conjuntamente con el condenado,
+su defensor y el Ministerio P&#250;blico, para resolver sobre la
+mantenci&#243;n o revocaci&#243;n de la pena. En caso de decretarse
+la revocaci&#243;n, el tribunal impondr&#225; al condenado la pena
+de reclusi&#243;n, regul&#225;ndose un d&#237;a por cada tercio de
+unidad tributaria mensual, sin que ella pueda nunca exceder
+de seis meses.
+     En cuanto a la regulaci&#243;n y revocaci&#243;n de la pena de
+servicios en favor de la comunidad, regir&#225;n las
+disposiciones contenidas en los art&#237;culos 49 a 49 sexies
+del C&#243;digo Penal.
+     Sin perjuicio de lo dispuesto en los incisos
+anteriores, en casos debidamente calificados el tribunal
+podr&#225; eximir al condenado del pago de la multa o imponerle
+una inferior al m&#237;nimo establecido en la ley, debiendo
+dejar constancia en la sentencia o en la resoluci&#243;n
+posterior a &#233;sta, de las razones que motivaron la
+decisi&#243;n.
+</Texto>
+              <Metadatos>
+                <NombreParte presente="si">52 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652246">
+              <Texto>     Art&#237;culo 53.- Las disposiciones de este T&#237;tulo se
+aplicar&#225;n tambi&#233;n al menor de dieciocho a&#241;os, el que
+ser&#225; puesto a disposici&#243;n del juez de menores
+correspondiente. El juez, prescindiendo de la declaraci&#243;n
+de haber obrado o no con discernimiento respecto del que
+tuviere m&#225;s de diecis&#233;is a&#241;os, podr&#225; imponer al menor
+alguna de las medidas establecidas en la ley N&#186; 16.618 o de
+las siguientes, seg&#250;n estimare m&#225;s apropiado para su
+rehabilitaci&#243;n:
+     a) asistencia obligatoria a programas de prevenci&#243;n,
+hasta por sesenta d&#237;as, o tratamiento o rehabilitaci&#243;n, en
+su caso, por un per&#237;odo de hasta ciento ochenta d&#237;as, en
+instituciones consideradas id&#243;neas por el Servicio de Salud
+de la ciudad asiento de la Corte de Apelaciones respectiva.
+Esta medida se cumplir&#225;, en lo posible, sin afectar la
+jornada escolar o laboral del infractor.
+     b) participaci&#243;n del menor, con acuerdo expreso de
+&#233;ste, en actividades determinadas a beneficio de la
+comunidad, a propuesta del departamento social de la
+municipalidad respectiva, hasta por un m&#225;ximo de treinta
+horas, o en cursos de capacitaci&#243;n por un n&#250;mero de horas
+suficientes para el aprendizaje de la t&#233;cnica o arte objeto
+del curso. El juez de menores deber&#225; indicar el tipo de
+actividades de que se trate, el lugar en que se
+desarrollar&#225;n y el organismo o autoridad encargada de su
+supervisi&#243;n. Esta medida se cumplir&#225; sin afectar la
+jornada escolar o laboral del infractor.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">53 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652247">
+              <Texto>     Art&#237;culo 54.- Las faltas a que aluden los art&#237;culos
+50 y 51 ser&#225;n de conocimiento del juez de garant&#237;a, de
+acuerdo a las reglas generales establecidas en el T&#237;tulo I
+del Libro Cuarto del C&#243;digo Procesal Penal.
+     Los autores de las faltas contempladas en este T&#237;tulo
+ser&#225;n citados por los agentes de la polic&#237;a para que
+comparezcan a la fiscal&#237;a correspondiente, a la cual se
+remitir&#225; la respectiva denuncia.
+     Si las personas se&#241;aladas en el inciso anterior no
+tuvieren, manifiestamente, control sobre sus actos y hubiere
+riesgo de que pueda afectarse su integridad f&#237;sica o de
+terceros, los agentes de la polic&#237;a podr&#225;n conducirlos al
+recinto hospitalario m&#225;s cercano, para que reciban la
+atenci&#243;n de salud que seg&#250;n el caso se necesite.
+     El tribunal determinar&#225; la sanci&#243;n correspondiente
+teniendo en cuenta las circunstancias personales del
+infractor y su mayor probabilidad de rehabilitaci&#243;n. Para
+estos efectos, el juez establecer&#225; la obligaci&#243;n del
+infractor de ser examinado por un m&#233;dico calificado por el
+Servicio de Salud correspondiente, con el fin de determinar
+si es o no dependiente de sustancias estupefacientes o
+sicotr&#243;picas, el grado de dependencia y el tratamiento que
+debiera seguir el afectado. En todo caso, el aludido examen
+podr&#225; ser decretado desde que se inicie el respectivo
+procedimiento.
+     En caso de resistencia o negativa del infractor a
+practicarse el examen decretado, el juez ordenar&#225; las
+medidas conducentes a su cumplimiento.
+     La Secretar&#237;a Regional Ministerial de Justicia, previo
+informe de la Secretar&#237;a Regional Ministerial de Salud,
+entregar&#225; a la Corte de Apelaciones respectiva la n&#243;mina
+de facultativos habilitados para practicar los ex&#225;menes y
+remitir los informes a que se refiere este art&#237;culo.
+     El fiscal, con el acuerdo del infractor, podr&#225;
+solicitar al juez de garant&#237;a la suspensi&#243;n condicional
+del procedimiento, en los t&#233;rminos previstos en los
+art&#237;culos 237 y siguientes del C&#243;digo Procesal Penal. En
+tal evento, se podr&#225; imponer como condici&#243;n la asistencia
+obligatoria a programas de prevenci&#243;n, tratamiento o
+rehabilitaci&#243;n, en su caso, por el tiempo que sea
+necesario, de acuerdo al informe a que se refiere el inciso
+cuarto de este art&#237;culo, en instituciones consideradas
+id&#243;neas por el Servicio de Salud competente.
+     Si el imputado sirviere un cargo p&#250;blico que,
+legalmente, no puede ser desempe&#241;ado por una persona que
+tenga dependencia de sustancias o drogas estupefacientes o
+sicotr&#243;picas, el juez de garant&#237;a enviar&#225; al organismo
+respectivo copia de la sentencia ejecutoriada que lo condene
+por alguna de estas faltas o de la resoluci&#243;n que dispone
+la suspensi&#243;n condicional del procedimiento, en su caso, a
+fin de que se adopten las medidas pertinentes para dar
+cumplimiento a las disposiciones estatutarias que procedan.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">54 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+          </EstructurasFuncionales>
+        </EstructuraFuncional>
+      </EstructurasFuncionales>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="T&#237;tulo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652249">
+      <Texto>              TITULO V
+
+De las medidas de control de precursores y sustancias
+qu&#237;micas esenciales
+</Texto>
+      <Metadatos>
+        <NombreParte presente="no">&#160;</NombreParte>
+        <TituloParte presente="si">TITULO V De las medidas de control de precursores y sustancias qu&#237;micas esenciales</TituloParte>
+        
+      </Metadatos>
+      <EstructurasFuncionales>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2023-05-23" derogado="no derogado" idParte="8652248">
+          <Texto>     Art&#237;culo 55.- Las personas naturales o jur&#237;dicas que
+produzcan, fabriquen, preparen, importen o exporten,
+transporten, distribuyan, comercialicen, almacenen o
+eliminen precursores o sustancias qu&#237;micas esenciales
+catalogadas por el reglamento a que alude el art&#237;culo 58
+como susceptibles de ser utilizadas para la fabricaci&#243;n
+il&#237;cita de drogas estupefacientes o sicotr&#243;picas, deber&#225;n
+inscribirse en un registro especial que la Subsecretar&#237;a
+del Interior crear&#225; para tal efecto.
+     S&#243;lo quienes se hayan inscrito en ese registro
+especial podr&#225;n efectuar las operaciones y actividades
+previstas en el inciso precedente con precursores y
+sustancias qu&#237;micas esenciales catalogadas en dicho
+reglamento. Las inscripciones deber&#225;n ser renovadas
+peri&#243;dicamente.
+</Texto>
+          <Metadatos>
+            <NombreParte presente="si">55 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2023-05-23" derogado="no derogado" idParte="8652250">
+          <Texto>     Art&#237;culo 56.- Para inscribirse en el registro se
+deber&#225;n presentar antecedentes que permitan la plena
+individualizaci&#243;n de la persona interesada y del domicilio
+en que funciona la industria. En caso de tratarse de una
+persona jur&#237;dica, se requerir&#225;n adem&#225;s los antecedentes
+de su constituci&#243;n legal, el n&#250;mero de rol &#250;nico
+tributario y los poderes vigentes de el o los representantes
+legales. Para los efectos de evaluar la circunstancia
+mencionada en el inciso siguiente, se deber&#225;n acompa&#241;ar
+los certificados de antecedentes penales respectivos.
+     La inscripci&#243;n en el registro especial s&#243;lo podr&#225;
+ser denegada a las personas naturales respecto de las cuales
+se hubiere formalizado la investigaci&#243;n, decretado la
+suspensi&#243;n condicional del procedimiento prevista en el
+art&#237;culo 237 del C&#243;digo Procesal Penal o hayan sido
+condenadas por alguna de las conductas punibles contempladas
+en esta ley o en las leyes N&#186;s. 19.366 y 19.913. Tambi&#233;n
+se podr&#225; denegar respecto de las personas jur&#237;dicas,
+cuando cualesquiera de sus representantes legales o
+administradores, y socios en el caso de las sociedades que
+no sean an&#243;nimas, se encuentren en alguna de dichas
+situaciones.
+     Del mismo modo, la inscripci&#243;n en el registro ser&#225;
+suspendida si, con posterioridad a ella, se formaliza la
+investigaci&#243;n por alguno de los delitos aludidos y se
+cancelar&#225;, desde que se encuentre ejecutoriada la
+respectiva sentencia de t&#233;rmino condenatoria.
+     Para efectos de la suspensi&#243;n, cancelaci&#243;n o
+denegaci&#243;n de la inscripci&#243;n en el registro, el Ministerio
+P&#250;blico remitir&#225; trimestralmente a la Subsecretar&#237;a del
+Interior la n&#243;mina de los sujetos que han sido condenados,
+beneficiarios de suspensi&#243;n condicional del procedimiento o
+formalizados por los delitos establecidos en esta ley y en
+las leyes Nos. 19.366 y 19.913. La Subsecretar&#237;a, a la
+brevedad, dictar&#225; la correspondiente resoluci&#243;n, de
+car&#225;cter declarativo, y la comunicar&#225; a los interesados. 
+</Texto>
+          <Metadatos>
+            <NombreParte presente="si">56 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2023-05-23" derogado="no derogado" idParte="8652251">
+          <Texto>     Art&#237;culo 57.- Las personas que se encuentren
+registradas en conformidad al art&#237;culo 55 deber&#225;n mantener
+un inventario de las existencias de las sustancias a que se
+refiere dicho art&#237;culo y una relaci&#243;n completa y
+actualizada del movimiento que &#233;stas experimenten, los que
+deber&#225;n ser remitidos a la autoridad responsable del
+registro con la frecuencia y bajo las modalidades que el
+reglamento indique, y podr&#225;n ser examinados tanto por &#233;sta
+como por la Polic&#237;a de Investigaciones de Chile y
+Carabineros de Chile, quienes colaborar&#225;n con la autoridad.
+Asimismo, las personas registradas comunicar&#225;n a la
+autoridad responsable del registro las operaciones de
+importaci&#243;n y exportaci&#243;n, con antelaci&#243;n a la fecha
+prevista para el embarque o para el env&#237;o legal de la
+exportaci&#243;n, respecto de lo cual la Subsecretar&#237;a del
+Interior notificar&#225; al pa&#237;s importador.
+     El intercambio de informaci&#243;n que se realice con
+organismos internacionales y con otros Estados, por
+aplicaci&#243;n de lo se&#241;alado en el inciso precedente, se
+sujetar&#225; a lo dispuesto en las convenciones y tratados
+internacionales, o en su defecto, al principio de
+reciprocidad, y se condicionar&#225; a que el Estado que reciba
+la informaci&#243;n mantenga el car&#225;cter confidencial con que
+se le remite.
+     Las personas naturales o jur&#237;dicas que no se
+encuentren registradas y que produzcan, fabriquen, preparen,
+transporten, importen, exporten, distribuyan, comercialicen,
+almacenen o eliminen precursores o sustancias qu&#237;micas
+esenciales catalogadas por el reglamento a que alude el
+art&#237;culo 58, podr&#225;n ser examinadas por las autoridades
+se&#241;aladas en el inciso primero y estar&#225;n sujetas a las
+sanciones correspondientes.
+</Texto>
+          <Metadatos>
+            <NombreParte presente="si">57 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652252">
+          <Texto>     Art&#237;culo 58.- El reglamento determinar&#225; el listado de
+precursores y sustancias qu&#237;micas esenciales catalogadas
+como susceptibles de ser utilizadas para la fabricaci&#243;n
+il&#237;cita de drogas estupefacientes o sicotr&#243;picas, el que
+ser&#225; actualizado peri&#243;dicamente; las caracter&#237;sticas que
+tendr&#225; el registro especial; el per&#237;odo de renovaci&#243;n de
+las inscripciones; la forma, plazos y otras modalidades con
+que se ejecutar&#225;n las obligaciones impuestas por este
+T&#237;tulo; las normas relativas a su control y fiscalizaci&#243;n
+y la coordinaci&#243;n con el Servicio Nacional de Aduanas y
+dem&#225;s entidades p&#250;blicas con competencia relativa al
+control del movimiento de las sustancias antes mencionadas. </Texto>
+          <Metadatos>
+            <NombreParte presente="si">58 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2023-05-23" derogado="no derogado" idParte="8652253">
+          <Texto>     Art&#237;culo 59.- La infracci&#243;n a las obligaciones de
+registrarse, de mantener inventario y relaci&#243;n de
+movimientos e informar sobre los mismos cuando la autoridad
+lo requiera, de mantener actualizados los datos en el
+Registro y de informar importaciones y exportaciones, ser&#225;
+sancionada con multa de cuarenta a mil unidades tributarias
+mensuales. El producto de las multas ingresar&#225; al fondo
+especial a que se refiere el art&#237;culo 46 de esta ley y se
+destinar&#225; a los fines que all&#237; se contemplan. En casos
+calificados de reincidencia, proceder&#225; adem&#225;s la clausura
+del establecimiento.
+     Para la determinaci&#243;n del monto de la multa se
+considerar&#225; la gravedad de la infracci&#243;n, la conducta
+previa del infractor y la naturaleza de las sustancias sobre
+la cual recay&#243; la infracci&#243;n.
+     Las multas deber&#225;n pagarse dentro de los quince d&#237;as
+siguientes a la fecha en que se encuentre firme la
+respectiva resoluci&#243;n.
+     </Texto>
+          <Metadatos>
+            <NombreParte presente="si">59 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652254">
+          <Texto>     Art&#237;culo 60.- Las personas que se encuentren
+registradas en conformidad al art&#237;culo 55 deber&#225;n informar
+inmediatamente a las autoridades competentes cualquier
+operaci&#243;n de la que sean parte y sobre la cual tengan
+certeza o indicio de que precursores o sustancias qu&#237;micas
+esenciales catalogadas por el reglamento puedan ser
+desviadas para la fabricaci&#243;n il&#237;cita de drogas
+estupefacientes o sicotr&#243;picas, absteni&#233;ndose de realizar
+la operaci&#243;n sin efectuar previamente la comunicaci&#243;n.</Texto>
+          <Metadatos>
+            <NombreParte presente="si">60 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+      </EstructurasFuncionales>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="T&#237;tulo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652256">
+      <Texto>              TITULO VI
+         Disposiciones varias
+</Texto>
+      <Metadatos>
+        <NombreParte presente="no">&#160;</NombreParte>
+        <TituloParte presente="si">TITULO VI Disposiciones varias</TituloParte>
+        
+      </Metadatos>
+      <EstructurasFuncionales>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652255">
+          <Texto>     Art&#237;culo 61.- Los abogados que se desempe&#241;en como
+funcionarios o empleados contratados a cualquier t&#237;tulo en
+los servicios de la Administraci&#243;n del Estado o en
+instituciones o servicios descentralizados, territorial o
+funcionalmente, no podr&#225;n patrocinar ni actuar como
+apoderados o mandatarios de imputados por cr&#237;menes, simples
+delitos o faltas contemplados en esta ley.
+     Si se tratare de actuaciones relativas a cr&#237;menes o
+simples delitos, la infracci&#243;n de esta prohibici&#243;n se
+sancionar&#225; administrativamente con la destituci&#243;n del
+cargo o con el t&#233;rmino del contrato. Si se tratare de
+faltas, se considerar&#225; infracci&#243;n grave de las
+obligaciones funcionarias, pudiendo disponerse hasta su
+destituci&#243;n o el t&#233;rmino del contrato.
+     No se aplicar&#225; la prohibici&#243;n establecida en el
+inciso primero a los abogados que se desempe&#241;en en la
+Defensor&#237;a Penal P&#250;blica o como prestadores del servicio
+de defensa penal p&#250;blica, cuando intervengan en esas
+calidades, ni a los abogados en su desempe&#241;o como
+funcionarios de las Corporaciones de Asistencia Judicial, a
+los contratados por &#233;stas, y a los egresados de Facultades
+de Derecho que est&#233;n realizando la pr&#225;ctica gratuita
+requerida para obtener el t&#237;tulo de abogado, s&#243;lo en lo
+relativo a su actuaci&#243;n en dichas Corporaciones.
+     Para efectos de lo dispuesto en este art&#237;culo, el juez
+de garant&#237;a o el Ministerio P&#250;blico, en su caso, deber&#225;
+informar a la Contralor&#237;a General de la Rep&#250;blica sobre la
+identidad de los abogados que patrocinen o act&#250;en como
+apoderados o mandatarios de imputados por cr&#237;menes, simples
+delitos o faltas contemplados en esta ley.</Texto>
+          <Metadatos>
+            <NombreParte presente="si">61 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2024-09-04" derogado="no derogado" idParte="8652257">
+          <Texto>     Art&#237;culo 62.- No se aplicar&#225; ninguna de las penas
+sustitutivas contempladas en la ley N&#186; 18.216 a la persona
+que haya sido condenada con anterioridad por alguno de los
+cr&#237;menes o simples delitos contemplados en esta ley o en la
+ley N&#186; 19.366, en virtud de sentencia ejecutoriada, haya
+cumplido, o no, efectivamente la condena, a menos que le sea
+reconocida la circunstancia atenuante de cooperaci&#243;n
+eficaz.
+</Texto>
+          <Metadatos>
+            <NombreParte presente="si">62 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2023-05-23" derogado="no derogado" idParte="8652258">
+          <Texto>     Art&#237;culo 63.- Un reglamento se&#241;alar&#225; las sustancias,
+productos que contengan solventes o gases inhalantes y
+especies vegetales a que se refieren los art&#237;culos 1&#186;,
+2&#186;, 5 bis y 8&#186;; los requisitos, obligaciones y dem&#225;s
+exigencias que deber&#225;n cumplirse para el otorgamiento de
+las autorizaciones a que se refiere el art&#237;culo 9&#186;, y las
+normas relativas al control y fiscalizaci&#243;n de dichas
+plantaciones.
+</Texto>
+          <Metadatos>
+            <NombreParte presente="si">63 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652259">
+          <Texto>     Art&#237;culo 64.- Sin perjuicio de lo dispuesto en el
+art&#237;culo 1&#186; transitorio, der&#243;gase la ley N&#186; 19.366. Toda
+referencia legal o reglamentaria a dicha ley debe entenderse
+hecha a esta ley.</Texto>
+          <Metadatos>
+            <NombreParte presente="si">64 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652260">
+          <Texto>     Art&#237;culo 65.- Para los efectos de lo establecido en el
+N&#186; 3 del art&#237;culo 6&#186; del C&#243;digo Org&#225;nico de Tribunales,
+en cuanto al sometimiento a la jurisdicci&#243;n chilena de
+cr&#237;menes y simples delitos perpetrados fuera del territorio
+de la Rep&#250;blica, las disposiciones de esta ley se
+entender&#225;n comprendidas en el p&#225;rrafo 14 del T&#237;tulo VI
+del Libro II del C&#243;digo Penal, sobre cr&#237;menes y simples
+delitos contra la salud p&#250;blica.</Texto>
+          <Metadatos>
+            <NombreParte presente="si">65 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652261">
+          <Texto>     Art&#237;culo 66.- Der&#243;gase el art&#237;culo 299 bis del
+C&#243;digo de Justicia Militar.</Texto>
+          <Metadatos>
+            <NombreParte presente="si">66 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652262">
+          <Texto>     Art&#237;culo 67.- Supr&#237;mese, en el art&#237;culo 193 del
+C&#243;digo Aeron&#225;utico, la frase "o de drogas estupefacientes
+o sicotr&#243;picas" y la coma (,) que la sigue.</Texto>
+          <Metadatos>
+            <NombreParte presente="si">67 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652263">
+          <Texto>     Art&#237;culo 68.- Introd&#250;cense las siguientes
+modificaciones en la ley N&#186; 18.575, Org&#225;nica
+Constitucional de Bases Generales de la Administraci&#243;n del
+Estado, cuyo texto refundido, coordinado y sistematizado fue
+fijado por el decreto con fuerza de ley N&#186; 1-19.653, del
+Ministerio Secretar&#237;a General de la Presidencia, de 2001:
+
+     1.- Interc&#225;lase el siguiente inciso segundo, nuevo, en
+el art&#237;culo 40, pasando el actual inciso segundo a ser
+inciso tercero:
+
+     "No podr&#225; ser Ministro de Estado el que tuviere
+dependencia de sustancias o drogas estupefacientes o
+sicotr&#243;picas ilegales, a menos que justifique su consumo
+por un tratamiento m&#233;dico. Para asumir alguno de esos
+cargos, el interesado deber&#225; prestar una declaraci&#243;n
+jurada que acredite que no se encuentra afecto a esta causal
+de inhabilidad.".
+
+     2.- Interc&#225;lase el siguiente art&#237;culo 55 bis, nuevo:
+
+     "Art&#237;culo 55 bis.- No podr&#225; desempe&#241;ar las funciones
+de Subsecretario, jefe superior de servicio ni directivo
+superior de un &#243;rgano u organismo de la Administraci&#243;n del
+Estado, hasta el grado de jefe de divisi&#243;n o su
+equivalente, el que tuviere dependencia de sustancias o
+drogas estupefacientes o sicotr&#243;picas ilegales, a menos que
+justifique su consumo por un tratamiento m&#233;dico.
+     Para asumir alguno de esos cargos, el interesado
+deber&#225; prestar una declaraci&#243;n jurada que acredite que no
+se encuentra afecto a esta causal de inhabilidad.".
+
+     3.- Agr&#233;ganse los siguientes incisos tercero y cuarto,
+nuevos, al art&#237;culo 61:
+
+     "Corresponder&#225; a la autoridad superior de cada &#243;rgano
+u organismo de la Administraci&#243;n del Estado prevenir el
+consumo indebido de sustancias o drogas estupefacientes o
+sicotr&#243;picas, de acuerdo con las normas contenidas en el
+reglamento.
+     El reglamento a que se refiere el inciso anterior
+contendr&#225;, adem&#225;s, un procedimiento de control de consumo
+aplicable a las personas a que se refiere el art&#237;culo 55
+bis. Dicho procedimiento de control comprender&#225; a todos los
+integrantes de un grupo o sector de funcionarios que se
+determinar&#225; en forma aleatoria; se aplicar&#225; en forma
+reservada y resguardar&#225; la dignidad e intimidad de ellos,
+observando las prescripciones de la ley N&#186; 19.628, sobre
+protecci&#243;n de los datos de car&#225;cter personal. S&#243;lo ser&#225;
+admisible como prueba de la dependencia una certificaci&#243;n
+m&#233;dica, basada en los ex&#225;menes que correspondan.".
+
+     4.- Introd&#250;cense las siguientes modificaciones al
+art&#237;culo 64:
+
+     a) Interc&#225;lase el siguiente inciso segundo, nuevo:
+     "En el caso de la inhabilidad a que se refiere el
+art&#237;culo 55 bis, junto con admitirla ante el superior
+jer&#225;rquico, el funcionario se someter&#225; a un programa de
+tratamiento y rehabilitaci&#243;n en alguna de las instituciones
+que autorice el reglamento. Si concluye ese programa
+satisfactoriamente, deber&#225; aprobar un control de consumo
+toxicol&#243;gico y cl&#237;nico que se le aplicar&#225;, con los
+mecanismos de resguardo a que alude el art&#237;culo 61, inciso
+cuarto.".
+     b) En el inciso segundo, que pasa a ser inciso tercero,
+sustit&#250;yese la frase "esta norma" por "cualquiera de estas
+normas", y agr&#233;gase la siguiente oraci&#243;n, pasando el punto
+aparte (.) a ser punto seguido (.): "Lo anterior es sin
+perjuicio de la aplicaci&#243;n de las reglas sobre salud
+irrecuperable o incompatible con el desempe&#241;o del cargo, si
+procedieren, trat&#225;ndose de la situaci&#243;n a que alude el
+inciso segundo.".</Texto>
+          <Metadatos>
+            <NombreParte presente="si">68 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652264">
+          <Texto>     Art&#237;culo 69.- Introd&#250;cense las siguientes
+modificaciones en la ley N&#186; 19.175, Org&#225;nica
+Constitucional de Gobierno y Administraci&#243;n Regional, cuyo
+texto refundido fue fijado por el decreto N&#186; 291, de 1993,
+del Ministerio del Interior:
+
+     1.- Interc&#225;lase el siguiente inciso segundo, nuevo, en
+el art&#237;culo 6&#186;:
+
+     "No podr&#225; ser intendente o gobernador el que tuviere
+dependencia de sustancias o drogas estupefacientes o
+sicotr&#243;picas ilegales, a menos que justifique su consumo
+por un tratamiento m&#233;dico. Para asumir alguno de esos
+cargos, el interesado deber&#225; prestar una declaraci&#243;n
+jurada que acredite que no se encuentra afecto a esta causal
+de inhabilidad.".
+
+     2.- Agr&#233;gase el siguiente inciso segundo, nuevo, al
+art&#237;culo 31:
+
+       "No podr&#225; ser consejero regional el que tuviere
+dependencia de sustancias o drogas estupefacientes o
+sicotr&#243;picas ilegales, a menos que justifique su consumo
+por un tratamiento m&#233;dico. Para asumir el cargo, el
+interesado deber&#225; prestar una declaraci&#243;n jurada que
+acredite que no se encuentra afecto a esta causal de
+inhabilidad.".</Texto>
+          <Metadatos>
+            <NombreParte presente="si">69 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652265">
+          <Texto>     Art&#237;culo 70.- Introd&#250;cese el siguiente inciso segundo
+en el art&#237;culo 73 de la ley N&#186; 18.695, Org&#225;nica
+Constitucional de Municipalidades, cuyo texto refundido,
+coordinado, sistematizado y actualizado fue fijado por el
+decreto con fuerza de ley N&#186; 1-19.704, de 2002, del
+Ministerio del Interior:
+
+     "No podr&#225; ser alcalde ni concejal el que tuviere
+dependencia de sustancias o drogas estupefacientes o
+sicotr&#243;picas ilegales, a menos que justifique su consumo
+por un tratamiento m&#233;dico.".</Texto>
+          <Metadatos>
+            <NombreParte presente="si">70 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652266">
+          <Texto>     Art&#237;culo 71.- Agr&#233;gase en el art&#237;culo 10 de la ley
+N&#186; 17.997, Org&#225;nica Constitucional del Tribunal
+Constitucional, el siguiente inciso final:
+
+     "En forma previa al juramento o promesa, el Presidente
+y los Ministros prestar&#225;n una declaraci&#243;n jurada en la
+cual acrediten que no se encuentran afectos a ninguna causal
+de inhabilidad.".</Texto>
+          <Metadatos>
+            <NombreParte presente="si">71 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652267">
+          <Texto>     Art&#237;culo 72.- Agr&#233;gase en el art&#237;culo 2&#186; de la ley
+N&#186; 18.460, Org&#225;nica Constitucional sobre el Tribunal
+Calificador de Elecciones, el siguiente inciso final:
+
+     "En forma previa al juramento o promesa, los Ministros
+prestar&#225;n una declaraci&#243;n jurada en la cual acrediten que
+no se encuentran afectos a ninguna causal de inhabilidad.".</Texto>
+          <Metadatos>
+            <NombreParte presente="si">72 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652268">
+          <Texto>     Art&#237;culo 73.- Introd&#250;cense las siguientes
+modificaciones en la ley N&#186; 19.640, Org&#225;nica
+Constitucional del Ministerio P&#250;blico:
+
+     1.- Interc&#225;lase el siguiente art&#237;culo 9&#186; bis:
+
+     "Art&#237;culo 9&#186; bis.- Asimismo, el Fiscal Nacional, los
+Fiscales Regionales y los fiscales adjuntos, antes de asumir
+sus cargos, deber&#225;n efectuar una declaraci&#243;n jurada en la
+cual acrediten que no tienen dependencia de sustancias o
+drogas estupefacientes o sicotr&#243;picas ilegales o, si la
+tuvieren, que su consumo est&#225; justificado por un
+tratamiento m&#233;dico.".
+
+     2.- Agr&#233;gase el siguiente inciso tercero al art&#237;culo
+50:
+
+     "Sin embargo, no se aplicar&#225; la medida de remoci&#243;n
+respecto del fiscal adjunto que incurra en la prohibici&#243;n a
+que se refiere el art&#237;culo 9&#186; bis, siempre que admita ese
+hecho ante su superior jer&#225;rquico y se someta a un programa
+de tratamiento y rehabilitaci&#243;n en alguna de las
+instituciones que autorice el reglamento. Si concluye ese
+programa satisfactoriamente, deber&#225; aprobar un control de
+consumo toxicol&#243;gico y cl&#237;nico que se le aplicar&#225;, con
+los mecanismos de resguardo a que alude el inciso segundo
+del art&#237;culo 66. El incumplimiento de esta norma har&#225;
+procedente la remoci&#243;n, sin perjuicio de la aplicaci&#243;n de
+las reglas sobre salud irrecuperable o incompatible con el
+desempe&#241;o del cargo, si procedieren.".
+
+     3.- Interc&#225;lase el siguiente inciso segundo, nuevo, en
+el art&#237;culo 66:
+
+     "En el reglamento se contendr&#225;n normas para prevenir
+el consumo indebido de sustancias o drogas estupefacientes o
+sicotr&#243;picas. Adem&#225;s, se establecer&#225; un procedimiento de
+control de consumo aplicable a las personas a que se refiere
+el art&#237;culo 9&#186; bis. Dicho procedimiento de control
+comprender&#225; a todos los integrantes de un grupo o sector de
+funcionarios que se determinar&#225; en forma aleatoria, se
+aplicar&#225; en forma reservada y resguardar&#225; la dignidad e
+intimidad de ellos, observando las prescripciones de la ley
+N&#186; 19.628, sobre protecci&#243;n de los datos de car&#225;cter
+personal. S&#243;lo ser&#225; admisible como prueba de la
+dependencia una certificaci&#243;n m&#233;dica, basada en los
+ex&#225;menes que correspondan.".</Texto>
+          <Metadatos>
+            <NombreParte presente="si">73 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652269">
+          <Texto>     Art&#237;culo 74.- Introd&#250;cense las siguientes
+modificaciones en la ley N&#186; 18.840, Org&#225;nica
+Constitucional del Banco Central de Chile:
+
+     a) Interc&#225;lase el siguiente art&#237;culo 14 bis:
+
+     "Art&#237;culo 14 bis.- No podr&#225; ser consejero el que
+tuviere dependencia de sustancias o drogas estupefacientes o
+sicotr&#243;picas ilegales, a menos que justifique su consumo
+por un tratamiento m&#233;dico.
+     Para asumir el cargo, el interesado deber&#225; prestar una
+declaraci&#243;n jurada que acredite que no se encuentra afecto
+a esta causal de inhabilidad.".
+
+     b) Introd&#250;cese el siguiente art&#237;culo 81 bis, nuevo:
+
+     "Art&#237;culo 81 bis.- No podr&#225; desempe&#241;ar las funciones
+de directivo superior, o su equivalente, el que tuviere
+dependencia de sustancias o drogas estupefacientes ilegales,
+a menos que justifique su consumo por un tratamiento
+m&#233;dico. Para asumir alguno de esos cargos, el interesado
+deber&#225; prestar una declaraci&#243;n jurada que acredite que no
+se encuentra afecto a esta causal de inhabilidad.
+     El Reglamento del Personal establecer&#225; normas para
+prevenir el consumo indebido de sustancias o drogas
+estupefacientes o sicotr&#243;picas.
+     Dicho reglamento contendr&#225;, adem&#225;s, un procedimiento
+de control de consumo aplicable a las personas a que se
+refiere el inciso primero. Dicho procedimiento de control
+comprender&#225; a todos los integrantes de un grupo o sector de
+funcionarios que se determinar&#225; en forma aleatoria; se
+aplicar&#225; en forma reservada y resguardar&#225; la dignidad e
+intimidad de ellos, observando las prescripciones de la ley
+N&#186; 19.628, sobre protecci&#243;n de los datos de car&#225;cter
+personal. S&#243;lo ser&#225; admisible como prueba de la
+dependencia una certificaci&#243;n m&#233;dica, basada en los
+ex&#225;menes que correspondan.
+     En el caso de la inhabilidad a que se refiere el inciso
+primero, junto con admitirla ante el superior jer&#225;rquico,
+el funcionario se someter&#225; a un programa de tratamiento y
+rehabilitaci&#243;n en alguna de las instituciones que autorice
+el reglamento. Si concluye ese programa satisfactoriamente,
+deber&#225; aprobar un control de consumo toxicol&#243;gico y
+cl&#237;nico que se le aplicar&#225;, con los mecanismos de
+resguardo a que alude el inciso precedente. Lo anterior es
+sin perjuicio de la aplicaci&#243;n de las reglas sobre salud
+irrecuperable o incompatible con el desempe&#241;o del cargo, si
+procedieren.".</Texto>
+          <Metadatos>
+            <NombreParte presente="si">74 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652270">
+          <Texto>     Art&#237;culo 75.- Introd&#250;cense las siguientes
+modificaciones en el C&#243;digo Org&#225;nico de Tribunales:
+
+     1.- Interc&#225;lase el siguiente art&#237;culo 100, nuevo:
+
+     "Art&#237;culo 100.- La Corte Suprema, mediante auto
+acordado, dictar&#225; normas para prevenir el consumo indebido
+de sustancias o drogas estupefacientes o sicotr&#243;picas por
+parte de los funcionarios judiciales.
+     Ese auto acordado contendr&#225;, adem&#225;s, un procedimiento
+de control de consumo aplicable a los miembros del
+escalaf&#243;n primario. Dicho procedimiento de control
+comprender&#225; a todos los integrantes de un grupo o sector de
+funcionarios que se determinar&#225; en forma aleatoria, se
+aplicar&#225; en forma reservada y resguardar&#225; la dignidad e
+intimidad de ellos, observando las prescripciones de la ley
+N&#186; 19.628, sobre protecci&#243;n de los datos de car&#225;cter
+personal. S&#243;lo ser&#225; admisible como prueba de la
+dependencia una certificaci&#243;n m&#233;dica, basada en los
+ex&#225;menes que correspondan.".
+
+     2.- Interc&#225;lase el siguiente art&#237;culo 251, nuevo:
+
+     "Art&#237;culo 251.- No puede ser juez la persona que
+tuviere dependencia de sustancias o drogas estupefacientes o
+sicotr&#243;picas ilegales, a menos que justifique su consumo
+por un tratamiento m&#233;dico.".
+
+     3.- Interc&#225;lase el siguiente art&#237;culo 323 ter, nuevo:
+
+     "Art&#237;culo 323 ter.- Asimismo, antes de asumir sus
+cargos, los miembros del escalaf&#243;n primario deber&#225;n
+prestar una declaraci&#243;n jurada que acredite que no se
+encuentran afectos a la causal de inhabilidad contemplada en
+el art&#237;culo 251.
+     En caso de inhabilidad sobreviniente, el funcionario
+deber&#225; admitirla ante su superior jer&#225;rquico y someterse a
+un programa de tratamiento y rehabilitaci&#243;n en alguna de
+las instituciones que autorice el auto acordado de la Corte
+Suprema. Si concluye ese programa satisfactoriamente,
+deber&#225; aprobar un control de consumo toxicol&#243;gico y
+cl&#237;nico que se le aplicar&#225;, con los mecanismos de
+resguardo a que alude el inciso segundo del art&#237;culo 100.
+El incumplimiento de esta norma dar&#225; lugar al
+correspondiente juicio de amovilidad, salvo que la Corte
+Suprema acuerde su remoci&#243;n. Lo anterior es sin perjuicio
+de la aplicaci&#243;n de las reglas sobre salud irrecuperable o
+incompatible con el desempe&#241;o del cargo, si procedieren.". </Texto>
+          <Metadatos>
+            <NombreParte presente="si">75 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652271">
+          <Texto>     Art&#237;culo 76.- El mayor gasto fiscal que represente la
+aplicaci&#243;n de esta ley se financiar&#225; con cargo al
+presupuesto del Ministerio del Interior.</Texto>
+          <Metadatos>
+            <NombreParte presente="si">76 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+      </EstructurasFuncionales>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="transitorio" tipoParte="Art&#237;culo Transitorio" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652273">
+      <Texto>     Art&#237;culos transitorios</Texto>
+      <Metadatos>
+        <NombreParte presente="no">&#160;</NombreParte>
+        <TituloParte presente="si">Art&#237;culos transitorios</TituloParte>
+        
+      </Metadatos>
+      <EstructurasFuncionales>
+        <EstructuraFuncional transitorio="transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652272">
+          <Texto>     Art&#237;culo 1&#186;.- Esta ley s&#243;lo se aplicar&#225; a los
+hechos delictivos cometidos con posterioridad a su entrada
+en vigencia. En consecuencia, la ley N&#186; 19.366, el
+art&#237;culo 299 bis del C&#243;digo de Justicia Militar y el
+art&#237;culo 193 del C&#243;digo Aeron&#225;utico continuar&#225;n vigentes
+para todos los efectos relativos a la persecuci&#243;n de los
+delitos contemplados en sus disposiciones y perpetrados con
+anterioridad a la publicaci&#243;n de esta ley, sin perjuicio de
+las normas relativas a la pena, en que regir&#225; lo dispuesto
+en el art&#237;culo 18 del C&#243;digo Penal. Asimismo, la
+tramitaci&#243;n de los respectivos procesos, la prueba y la
+apreciaci&#243;n de la misma, se regir&#225;n por las normas de
+dichos cuerpos legales.
+     En el caso de los procesos que, una vez en vigencia
+esta ley, se contin&#250;en tramitando conforme a las leyes
+procesales penales anteriores a la entrada en vigor del
+C&#243;digo Procesal Penal, la autorizaci&#243;n a que se refiere el
+art&#237;culo 9&#186; no se conceder&#225; a los acusados y se
+suspender&#225; respecto de quienes se dicte auto de
+procesamiento. Asimismo, se denegar&#225; respecto de los
+procesados la inscripci&#243;n en el registro especial a que se
+refiere el T&#237;tulo V y se suspender&#225; la que ya se hubiere
+practicado respecto de quienes sean sometidos a proceso.
+</Texto>
+          <Metadatos>
+            <NombreParte presente="si">1 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652274">
+          <Texto>     Art&#237;culo 2&#186;.- En tanto no se dicte el reglamento a
+que se refiere el art&#237;culo 63, regir&#225; el actual. </Texto>
+          <Metadatos>
+            <NombreParte presente="si">2 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652275">
+          <Texto>     Art&#237;culo 3&#186;.- En la Regi&#243;n Metropolitana de
+Santiago, mientras no se implemente el Ministerio P&#250;blico,
+ni entre a regir el C&#243;digo Procesal Penal establecido en la
+ley N&#186; 19.696, se aplicar&#225;n las siguientes reglas:
+
+     a) Se mantendr&#225; vigente la ley N&#186; 19.366, en lo
+relativo a las normas procesales de car&#225;cter org&#225;nico y
+penal que &#233;sta contempla, salvo en lo que respecta al
+inciso tercero del art&#237;culo 31, que se reemplaza por el
+siguiente:
+     "Las medidas no podr&#225;n decretarse por un plazo
+superior a sesenta d&#237;as, prorrogables por per&#237;odos de
+igual duraci&#243;n.".
+     b) El Consejo de Defensa del Estado conservar&#225; sus
+actuales facultades y la estructura prevista por la ley N&#186;
+19.366 para el ejercicio de las mismas.
+     c) La resoluci&#243;n judicial que otorgue la libertad
+provisional a los procesados por los delitos a que se
+refieren los art&#237;culos 1&#186;, 2&#186;, 3&#186; y 16 de esta ley,
+deber&#225; siempre elevarse en consulta, y la sala deber&#225;
+resolver s&#243;lo con titulares.
+     d) Los jueces de letras con competencia en lo criminal
+ejercer&#225;n las atribuciones que confieren al Ministerio
+P&#250;blico los art&#237;culos 23, 30 y 31 de esta ley, relativos a
+las entregas vigiladas o controladas y a las medidas de
+protecci&#243;n a testigos, peritos, agentes encubiertos,
+reveladores, informantes y cooperador eficaz.
+     e) Al comenzar a regir la reforma procesal penal en
+dicha Regi&#243;n, no surtir&#225;n efecto las modificaciones que el
+art&#237;culo 4&#186; de la ley N&#186; 19.806 introdujo a la ley N&#186;
+19.366 y cuya entrada en vigencia estaba condicionada a ese
+hecho, por mandato del inciso segundo del art&#237;culo
+transitorio de la misma ley N&#186; 19.806.</Texto>
+          <Metadatos>
+            <NombreParte presente="si">3 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="transitorio" tipoParte="Art&#237;culo" fechaVersion="2005-02-16" derogado="no derogado" idParte="8652276">
+          <Texto>     Art&#237;culo 4&#186;.- Fac&#250;ltase al Ministerio de Bienes
+Nacionales para que, dentro de un plazo de ciento veinte
+d&#237;as, contados desde la publicaci&#243;n de esta ley, proceda,
+con consulta al Ministerio del Interior, a enajenar en
+subasta p&#250;blica las especies decomisadas que hubieran sido
+puestas a su disposici&#243;n en virtud de la ley N&#186; 19.366,
+debiendo ingresar el producto de estas enajenaciones al
+fondo especial del Ministerio del Interior a que se refiere
+el art&#237;culo 46 de la presente ley.
+     Trat&#225;ndose de dineros, efectos de comercio o valores
+mobiliarios, el Ministerio de Bienes Nacionales, de oficio,
+efectuar&#225; los dep&#243;sitos que corresponda en el fondo
+especial aludido en el inciso anterior.". </Texto>
+          <Metadatos>
+            <NombreParte presente="si">4 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+      </EstructurasFuncionales>
+    </EstructuraFuncional>
+  </EstructurasFuncionales>
+  <Promulgacion fechaVersion="2005-02-16" derogado="no derogado">
+    <Texto>     Habi&#233;ndose cumplido con lo establecido en el N&#186; 1&#186;
+del art&#237;culo 82 de la Constituci&#243;n Pol&#237;tica de la
+Rep&#250;blica y por cuanto he tenido a bien aprobarlo y
+sancionarlo; por tanto prom&#250;lguese y ll&#233;vese a efecto como
+Ley de la Rep&#250;blica.
+     Santiago, 2 de febrero de 2005.- RICARDO LAGOS ESCOBAR,
+Presidente de la Rep&#250;blica.- Jorge Correa Sutil, Ministro
+del Interior (S).- Jaime Campos Quiroga, Ministro de
+Justicia (S).
+     Lo que transcribo a Ud., para su conocimiento.- Saluda
+Atte. a Ud., Carlos Varas Gonz&#225;lez, Subsecretario del
+Interior Subrogante.</Texto>
+  </Promulgacion>
+  <Anexos>
+    <Anexo fechaVersion="2005-02-16" derogado="no derogado" idParte="8652278" transitorio="no transitorio">
+      <Metadatos>
+        <Titulo>Proyecto de Ley que sustituye la ley N&#186; 19.366, que
+sanciona el tr&#225;fico il&#237;cito de estupefacientes y
+sustancias sicotr&#243;picas</Titulo>
+        
+      </Metadatos>
+      <Texto>
+              Tribunal Constitucional
+ Proyecto de Ley que sustituye la ley N&#186; 19.366, que
+sanciona el tr&#225;fico il&#237;cito de estupefacientes y
+sustancias sicotr&#243;picas
+ El Secretario del Tribunal Constitucional, quien suscribe,
+certifica que la Honorable C&#225;mara de Diputados envi&#243; el
+proyecto de ley enunciado en el rubro, aprobado por el
+Congreso Nacional, a fin de que este Tribunal ejerciera el
+control de constitucionalidad respecto de los art&#237;culos 26,
+27, 54, 68, 69, 70, 71, 72, 73, 74, 75 y 76 permanentes y
+3&#186; transitorio del mismo, y por sentencia de 25 de enero de
+2005, dictada en los autos Rol N&#186; 433, declar&#243;:
+1.  Que los art&#237;culos 26, 27 -salvo la letra a) de su
+inciso segundo-, 54, 68, 69, 70, 72, 73, 74 -sin perjuicio
+de lo se&#241;alado en la declaraci&#243;n segunda- , 75 -sin
+perjuicio de lo se&#241;alado en la declaraci&#243;n tercera-, y 76
+permanentes y 3&#186; transitorio del proyecto remitido, son
+constitucionales.
+2.  Que, igualmente, el art&#237;culo 74, N&#186;s. 2 y 3, del
+proyecto remitido es constitucional en el entendido de lo
+se&#241;alado en el considerando cuadrag&#233;simo noveno de esta
+sentencia.
+3.  Que, de la misma manera, el art&#237;culo 75, letra b), del
+proyecto remitido es constitucional en el entendido de lo
+se&#241;alado en el considerando quincuag&#233;simo cuarto de esta
+sentencia.
+4.  Que la letra a) del inciso segundo del art&#237;culo 27 del
+proyecto remitido es inconstitucional y debe ser eliminado
+de su texto.
+5.  Que el art&#237;culo 71 del proyecto remitido es
+inconstitucional y debe ser eliminado de su texto.
+6.  Que el art&#237;culo 63, inciso segundo, del proyecto
+remitido es igualmente inconstitucional y debe ser eliminado
+de su texto.
+ Santiago, enero 26 de 2005.- Rafael Larra&#237;n Cruz,
+Secretario.</Texto>
+    </Anexo>
+  </Anexos>
+</Norma>

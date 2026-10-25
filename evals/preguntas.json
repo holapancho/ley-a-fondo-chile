@@ -1,0 +1,77 @@
+[
+  {
+    "id": "porte-droga",
+    "cargar": ["ley 20000"],
+    "pregunta": "¿Cuáles son las penas por porte de droga?",
+    "articulosEsperados": [
+      { "idNorma": 235507, "numero": "4" },
+      { "idNorma": 235507, "numero": "50" },
+      { "idNorma": 235507, "numero": "3" },
+      { "idNorma": 235507, "numero": "1" },
+      { "idNorma": 235507, "numero": "19" },
+      { "idNorma": 269323, "numero": "1" },
+      { "idNorma": 1984, "numero": "56" }
+    ],
+    "debeContener": ["consumo personal", "hipot[eé]tic", "imagen"],
+    "notas": "Debe distinguir porte para consumo personal (no es el delito del art. 4; puede ser falta del art. 50 en lugar público), microtráfico (art. 4) y tráfico (art. 3, que remite a las penas del art. 1). Debe traducir los grados de las penas citando el Código Penal."
+  },
+  {
+    "id": "trayecto",
+    "cargar": ["ley 16744"],
+    "pregunta": "¿Un accidente camino al trabajo cuenta como accidente del trabajo?",
+    "articulosEsperados": [{ "idNorma": 28650, "numero": "5" }],
+    "debeContener": ["trayecto"],
+    "notas": "Accidente de trayecto: art. 5 inciso segundo."
+  },
+  {
+    "id": "anexo-pnud",
+    "cargar": ["1228941"],
+    "pregunta": "¿Qué proyecto promulga el Decreto 199 de 2026 de Relaciones Exteriores y quién lo implementa?",
+    "articulosEsperados": [],
+    "anexoEsperado": { "idNorma": 1228941 },
+    "debeContener": ["Los R[ií]os", "Programa de las Naciones Unidas para el Desarrollo"],
+    "notas": "La respuesta está en el texto del Anexo, no en los artículos."
+  },
+  {
+    "id": "anexo-tabla",
+    "cargar": ["1228941"],
+    "pregunta": "¿Cuál es el presupuesto del proyecto según las tablas del Decreto 199 de 2026?",
+    "articulosEsperados": [],
+    "anexoEsperado": { "idNorma": 1228941 },
+    "debeContener": ["imagen"],
+    "notas": "El dato solo está en tablas en imagen: la respuesta debe advertirlo y dar el link a BCN."
+  },
+  {
+    "id": "civil-1437",
+    "cargar": ["codigo civil"],
+    "pregunta": "¿Cuáles son las fuentes de las obligaciones según el Código Civil?",
+    "articulosEsperados": [{ "idNorma": 172986, "numero": "1437", "cuerpo": "Código Civil" }],
+    "debeContener": ["Código Civil, art\\. 1437"],
+    "noDebeContener": ["DFL 1, art\\. 1437", "Decreto con Fuerza de Ley 1 de \\d{4}, art\\. 1437"],
+    "notas": "Debe citar el Código Civil, no el DFL 1."
+  },
+  {
+    "id": "trabajo-18-quater",
+    "cargar": ["codigo del trabajo"],
+    "pregunta": "¿Qué dice el art 18 quater del codigo del trabajo?",
+    "articulosEsperados": [{ "idNorma": 207436, "numero": "18 quater" }],
+    "debeContener": ["18 QU[ÁA]TER"],
+    "notas": "La pregunta escribe 'quater' sin tilde; la cita debe usar la forma oficial."
+  },
+  {
+    "id": "escala-penas",
+    "cargar": ["codigo penal"],
+    "pregunta": "¿Cuánto dura la pena de presidio menor en su grado medio?",
+    "articulosEsperados": [{ "idNorma": 1984, "numero": "25" }, { "idNorma": 1984, "numero": "56" }],
+    "debeContener": ["(quinientos cuarenta y un|541) d[ií]as", "tres a[ñn]os", "imagen"],
+    "notas": "Art. 25 (duración de las penas temporales) y art. 56, cuya tabla de grados viene como imagen (Art56CP.jpeg): la respuesta debe advertir que el rango sale de esa imagen."
+  },
+  {
+    "id": "fuera-de-alcance",
+    "cargar": ["ley 16744"],
+    "pregunta": "¿Cuántos días de vacaciones tiene un trabajador según la Ley 16.744?",
+    "articulosEsperados": [],
+    "debeContener": ["no (lo )?(regula|establece|trata|contiene)|no encontr"],
+    "notas": "La Ley 16.744 no regula vacaciones: la respuesta debe decirlo en vez de inventar."
+  }
+]

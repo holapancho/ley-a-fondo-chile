@@ -1,0 +1,13 @@
+{
+  "name": "ley-a-fondo-chile",
+  "version": "0.1.0",
+  "description": "Skill (Agent Skills) para entender a fondo normas chilenas con citas verificables, usando Ley Chile – BCN.",
+  "private": true,
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.13"
+  },
+  "scripts": {
+    "test": "node --test --test-timeout=120000 \"tests/**/*.test.mjs\""
+  }
+}
