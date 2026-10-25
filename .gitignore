@@ -1,0 +1,25 @@
+# Dependencias (el proyecto no usa paquetes npm, pero por si acaso)
+node_modules/
+
+# Espacio de trabajo local de las herramientas de desarrollo con agentes
+.superpowers/
+.claude/settings.local.json
+
+# Índices locales creados al probar la skill fuera de la carpeta de usuario
+.ley-a-fondo-chile/
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Logs y archivos temporales
+*.log
+npm-debug.log*
+*.tmp
+
+# Sistema operativo y editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
