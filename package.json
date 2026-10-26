@@ -8,6 +8,13 @@
     "node": ">=22.13"
   },
   "scripts": {
-    "test": "node --test --test-timeout=120000 \"tests/**/*.test.mjs\""
+    "test": "node --test --test-timeout=120000 \"tests/**/*.test.mjs\"",
+    "test:vivo": "node --test --test-timeout=300000 \"tests/vivo/*.vivo.mjs\"",
+    "empaquetar": "rm -f dist/ley-a-fondo-chile.zip && mkdir -p dist && cd skills && zip -rq -X ../dist/ley-a-fondo-chile.zip ley-a-fondo-chile -x '*.DS_Store'"
+  },
+  "homepage": "https://holapancho.github.io/ley-a-fondo-chile/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/holapancho/ley-a-fondo-chile.git"
   }
 }

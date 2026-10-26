@@ -1,0 +1,25 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "ley-a-fondo-chile",
+  "displayName": "Ley a fondo (Chile)",
+  "version": "0.1.0",
+  "description": "Explica leyes, decretos, reglamentos y códigos de Chile con citas verificadas contra Ley Chile – BCN.",
+  "icon": "./.claude-plugin/icon.png",
+  "author": {
+    "name": "holapancho",
+    "url": "https://github.com/holapancho"
+  },
+  "homepage": "https://holapancho.github.io/ley-a-fondo-chile/",
+  "repository": "https://github.com/holapancho/ley-a-fondo-chile",
+  "documentationUrl": "https://holapancho.github.io/ley-a-fondo-chile/",
+  "supportUrl": "https://github.com/holapancho/ley-a-fondo-chile/issues",
+  "license": "MIT",
+  "keywords": [
+    "chile",
+    "leyes",
+    "legal",
+    "bcn",
+    "ley-chile",
+    "agent-skills"
+  ]
+}

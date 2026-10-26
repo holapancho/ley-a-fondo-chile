@@ -35,6 +35,41 @@ Funciona con Claude Code, Codex, Cursor y otros agentes compatibles con Agent Sk
 
 ## Instalación
 
+Página del proyecto: **https://holapancho.github.io/ley-a-fondo-chile/**
+
+### Claude Code (plugin)
+
+Este repositorio es también un marketplace de plugins de Claude Code. Dentro de Claude Code:
+
+```
+/plugin marketplace add holapancho/ley-a-fondo-chile
+/plugin install ley-a-fondo-chile@ley-a-fondo-chile
+```
+
+En Claude Code 2.1.275 o superior también funciona en un solo paso:
+
+```
+/plugin install ley-a-fondo-chile --marketplace holapancho/ley-a-fondo-chile
+```
+
+### Codex, Cursor y otros agentes (Agent Skills)
+
+Con el instalador [`npx skills`](https://github.com/vercel-labs/skills), que necesita Node.js 22.20 o superior:
+
+```bash
+npx skills add holapancho/ley-a-fondo-chile                 # detecta tus agentes
+npx skills add holapancho/ley-a-fondo-chile -a codex -g     # solo Codex, para todos tus proyectos
+npx skills add holapancho/ley-a-fondo-chile -a cursor       # solo Cursor, en este proyecto
+```
+
+Para fijar una versión: `npx skills add https://github.com/holapancho/ley-a-fondo-chile/tree/v0.1.0`.
+
+### claude.ai
+
+Descarga [`ley-a-fondo-chile.zip`](https://github.com/holapancho/ley-a-fondo-chile/releases/latest/download/ley-a-fondo-chile.zip) y súbelo en la sección de Skills de la configuración de claude.ai. La ejecución de código tiene que tener acceso a internet hacia `leychile.cl` y `nuevo.leychile.cl`.
+
+### Manual
+
 Copia la carpeta [`skills/ley-a-fondo-chile`](skills/ley-a-fondo-chile) a la carpeta de skills de tu agente. Por ejemplo, en Claude Code: `~/.claude/skills/ley-a-fondo-chile` (para todos tus proyectos) o `.claude/skills/ley-a-fondo-chile` (para un proyecto).
 
 Prueba que funciona:
@@ -64,9 +99,22 @@ Para ver todos los comandos, ejecuta `node scripts/ley-a-fondo.mjs ayuda`.
 ## Desarrollo
 
 ```bash
-npm test                                  # pruebas (node --test, sin dependencias)
+npm test                                  # pruebas (node --test, sin dependencias ni internet)
+npm run test:vivo                         # pruebas contra Ley Chile – BCN real (usa internet)
 node tests/fixtures/descargar.mjs --todos # vuelve a bajar los fixtures desde BCN
+npm run empaquetar                        # genera dist/ley-a-fondo-chile.zip
+claude plugin validate . --strict         # valida el marketplace y el plugin de Claude Code
 ```
+
+GitHub Actions corre `npm test` y valida el plugin en cada push y PR (`.github/workflows/pruebas.yml`). Además corre `npm run test:vivo` cada lunes y abre un issue si BCN cambió algo (`bcn-vivo.yml`).
+
+### Publicar una versión
+
+1. Sube la versión en `package.json` y en `.claude-plugin/plugin.json`, y agrega su sección en `CHANGELOG.md`. Un test revisa que las tres coincidan.
+2. Haz merge a `main` y crea el tag: `git tag v0.2.0 && git push origin v0.2.0`.
+3. El workflow `publicar.yml` corre las pruebas y crea el release con el `.zip` y las notas del CHANGELOG.
+
+La página (`docs/`) se publica sola en GitHub Pages con cada cambio en `main` (`pagina.yml`).
 
 ## Licencia
 

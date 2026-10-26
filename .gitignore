@@ -23,3 +23,7 @@ Thumbs.db
 desktop.ini
 .vscode/
 .idea/
+
+# Paquete .zip generado por npm run empaquetar
+dist/
+notas.md
