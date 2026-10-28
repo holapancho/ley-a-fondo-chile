@@ -88,7 +88,7 @@ node scripts/ley-a-fondo.mjs articulo "codigo civil" "1437" --cuerpo "Código Ci
 node scripts/ley-a-fondo.mjs reindexar --todas
 ```
 
-Para ver todos los comandos, ejecuta `node scripts/ley-a-fondo.mjs ayuda`.
+Para ver todos los comandos, ejecuta `node scripts/ley-a-fondo.mjs ayuda`. La referencia completa, con opciones, ejemplos de salida y códigos de salida, está en [documentacion/comandos.md](documentacion/comandos.md).
 
 ## Aviso legal
 
