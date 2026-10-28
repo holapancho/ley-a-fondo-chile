@@ -4,6 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Ley a fondo (Chile)</title>
+<meta name="author" content="Francisco Rojas Morales">
 <meta name="description" content="Skill para agentes de IA que explica leyes, decretos, reglamentos y códigos de Chile con citas verificadas contra Ley Chile – BCN.">
 <meta property="og:title" content="Ley a fondo (Chile)">
 <meta property="og:description" content="Normas chilenas explicadas por tu agente de IA, con cada afirmación citada y verificada contra el texto oficial de Ley Chile – BCN.">
@@ -163,6 +164,13 @@
   .aviso { padding: 22px; border-left: 4px solid var(--acento); }
   .aviso p:last-child { margin: 0; }
 
+  /* Autor */
+  .autor { padding: 28px; display: grid; gap: 24px; grid-template-columns: 1fr auto; align-items: center; }
+  @media (max-width: 720px) { .autor { grid-template-columns: 1fr; } }
+  .autor p { color: var(--suave); max-width: 60ch; }
+  .autor .enlaces { margin: 0; font-size: .95rem; }
+  .autor .boton svg { width: 20px; height: 20px; flex-shrink: 0; }
+
   footer { padding: 32px 0 48px; border-top: 1px solid var(--borde); color: var(--suave); font-size: .9rem; }
   footer .envoltura { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 12px; }
 
@@ -302,11 +310,30 @@ cp -r ley-a-fondo-chile/skills/ley-a-fondo-chile ~/.claude/skills/</code></pre><
       </div>
     </div>
   </section>
+
+  <section id="autor">
+    <div class="envoltura">
+      <div class="tarjeta autor">
+        <div>
+          <h2 class="serif">Quién está detrás</h2>
+          <p>Hecho por <strong>Francisco Rojas Morales</strong> en Chile, como proyecto personal y gratuito. Lo desarrollé junto a <a href="https://claude.com/claude-code">Claude Code</a>, el asistente de programación de Anthropic.</p>
+          <p>Si te sirvió para entender una ley, puedes invitarme un café. Ayuda a mantener el proyecto.</p>
+          <p class="enlaces"><a href="https://www.linkedin.com/in/franciscorojasmorales" target="_blank" rel="noopener">LinkedIn</a> · <a href="https://github.com/holapancho" target="_blank" rel="noopener">GitHub</a> · <a href="https://www.instagram.com/holapanch0" target="_blank" rel="noopener">@holapanch0</a></p>
+        </div>
+        <a class="boton primario" href="https://www.paypal.com/donate/?business=roja_chenp%40hotmail.com" target="_blank" rel="noopener">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M18 8h1a4 4 0 0 1 0 8h-1"/><path d="M2 8h16v9a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V8z"/><line x1="6" y1="1" x2="6" y2="4"/><line x1="10" y1="1" x2="10" y2="4"/><line x1="14" y1="1" x2="14" y2="4"/>
+          </svg>
+          Invítame un café
+        </a>
+      </div>
+    </div>
+  </section>
 </main>
 
 <footer>
   <div class="envoltura">
-    <span>Código bajo licencia <a href="https://github.com/holapancho/ley-a-fondo-chile/blob/main/LICENSE">MIT</a>.</span>
+    <span>Hecho por <a href="#autor">Francisco Rojas Morales</a> con <a href="https://claude.com/claude-code">Claude Code</a>. Código bajo licencia <a href="https://github.com/holapancho/ley-a-fondo-chile/blob/main/LICENSE">MIT</a>.</span>
     <span><a href="https://github.com/holapancho/ley-a-fondo-chile/issues">Reportar un problema</a> · <a href="https://github.com/holapancho/ley-a-fondo-chile/blob/main/CHANGELOG.md">Cambios</a></span>
   </div>
 </footer>
