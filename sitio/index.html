@@ -10,6 +10,11 @@
 <meta property="og:description" content="Normas chilenas explicadas por tu agente de IA, con cada afirmación citada y verificada contra el texto oficial de Ley Chile – BCN.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://holapancho.github.io/ley-a-fondo-chile/">
+<meta property="og:locale" content="es_CL">
+<meta property="og:locale:alternate" content="en_US">
+<link rel="alternate" hreflang="es" href="https://holapancho.github.io/ley-a-fondo-chile/">
+<link rel="alternate" hreflang="en" href="https://holapancho.github.io/ley-a-fondo-chile/en/">
+<link rel="alternate" hreflang="x-default" href="https://holapancho.github.io/ley-a-fondo-chile/">
 <link rel="icon" href="icono.svg" type="image/svg+xml">
 <style>
   :root {
@@ -89,6 +94,8 @@
   .barra nav { display: flex; gap: 18px; font-size: .95rem; }
   .barra nav a { text-decoration: none; color: var(--suave); }
   .barra nav a:hover { color: var(--acento); }
+  .barra nav a.idioma { font-weight: 600; color: var(--tinta); border: 1px solid var(--borde); border-radius: 6px; padding: 0 8px; }
+  .barra nav a.idioma:hover { border-color: var(--acento); }
   @media (max-width: 640px) { .barra nav .opcional { display: none; } }
 
   .portada { padding-top: 40px; padding-bottom: 64px; display: grid; gap: 40px; grid-template-columns: 1.05fr 1fr; align-items: center; }
@@ -185,6 +192,7 @@
     <a href="#instalar">Instalar</a>
     <a class="opcional" href="#limitaciones">Limitaciones</a>
     <a href="https://github.com/holapancho/ley-a-fondo-chile">GitHub</a>
+    <a class="idioma" href="en/" hreflang="en" lang="en" title="English version">EN</a>
   </nav>
 </header>
 

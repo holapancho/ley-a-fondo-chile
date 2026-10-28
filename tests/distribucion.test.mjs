@@ -29,10 +29,18 @@ test('el ícono del plugin existe', () => {
   assert.ok(icono && existsSync(path.join(RAIZ, icono)), `no existe ${icono}`);
 });
 
-test('la página enlaza solo archivos que existen', () => {
-  const html = leer('docs/index.html');
-  const locales = [...html.matchAll(/(?:href|src)="(?!https?:|#|mailto:)([^"]+)"/g)].map((m) => m[1]);
-  for (const r of locales) assert.ok(existsSync(path.join(RAIZ, 'docs', r)), `no existe docs/${r}`);
-  assert.match(html, /no (es|son) (una )?interpretación oficial/i);
-  assert.match(html, /releases\/latest\/download\/ley-a-fondo-chile\.zip/);
-});
+const PAGINAS = [
+  { ruta: 'sitio/index.html', aviso: /no (es|son) (una )?interpretación oficial/i },
+  { ruta: 'sitio/en/index.html', aviso: /not an official interpretation/i },
+];
+
+for (const { ruta, aviso } of PAGINAS) {
+  test(`${ruta} enlaza solo archivos que existen`, () => {
+    const html = leer(ruta);
+    const carpeta = path.dirname(path.join(RAIZ, ruta));
+    const locales = [...html.matchAll(/(?:href|src)="(?!https?:|#|mailto:)([^"#]+)/g)].map((m) => m[1]);
+    for (const r of locales) assert.ok(existsSync(path.join(carpeta, r)), `${ruta}: no existe ${r}`);
+    assert.match(html, aviso);
+    assert.match(html, /releases\/latest\/download\/ley-a-fondo-chile\.zip/);
+  });
+}

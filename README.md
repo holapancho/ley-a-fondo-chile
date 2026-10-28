@@ -121,7 +121,7 @@ GitHub Actions corre `npm test` y valida el plugin en cada push y PR (`.github/w
 2. Haz merge a `main` y crea el tag: `git tag v0.2.0 && git push origin v0.2.0`.
 3. El workflow `publicar.yml` corre las pruebas y crea el release con el `.zip` y las notas del CHANGELOG.
 
-La página (`docs/`) se publica sola en GitHub Pages con cada cambio en `main` (`pagina.yml`).
+La página (`sitio/`) se publica sola en GitHub Pages con cada cambio en `main` (`pagina.yml`).
 
 ## Licencia
 

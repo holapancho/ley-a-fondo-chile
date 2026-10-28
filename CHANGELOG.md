@@ -11,7 +11,7 @@ Todos los cambios relevantes de la skill se anotan aquí. El formato sigue [Keep
 - Skill `ley-a-fondo-chile`: carga normas de Ley Chile – BCN con sus reglamentos, las indexa localmente (SQLite FTS5) y responde con citas verificables.
 - Comandos `cargar`, `listar`, `buscar`, `articulo`, `seccion`, `verificar-citas`, `reindexar` y `estado`.
 - Instalación con `npx skills add`, como plugin de Claude Code (`.claude-plugin/`) y como `.zip` para claude.ai.
-- Página del proyecto en GitHub Pages (`docs/`).
+- Página del proyecto en GitHub Pages (`sitio/`).
 - CI: pruebas en cada push y PR, y prueba semanal contra BCN real que abre un issue si falla.
 
 [Sin publicar]: https://github.com/holapancho/ley-a-fondo-chile/compare/v0.1.0...HEAD
