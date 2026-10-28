@@ -90,6 +90,13 @@ node scripts/ley-a-fondo.mjs reindexar --todas
 
 Para ver todos los comandos, ejecuta `node scripts/ley-a-fondo.mjs ayuda`. La referencia completa, con opciones, ejemplos de salida y códigos de salida, está en [documentacion/comandos.md](documentacion/comandos.md).
 
+## Documentación
+
+- [Comandos](documentacion/comandos.md): referencia de cada comando del script.
+- [Arquitectura](documentacion/arquitectura.md): cómo se carga, guarda y consulta una norma por dentro.
+- [Fuentes de BCN](documentacion/fuentes-bcn.md): los endpoints que usa la skill, sus rarezas y qué hacer si cambian.
+- [Decisiones de diseño](documentacion/decisiones.md): qué busca el proyecto, qué deja fuera y por qué.
+
 ## Aviso legal
 
 - Las respuestas **no son interpretación oficial de la BCN ni asesoría legal**.
