@@ -2,7 +2,7 @@
 name: ley-a-fondo-chile
 description: Explica a fondo normas chilenas (leyes, decretos, DFL, decretos ley, reglamentos y los códigos de la República) con citas verificables a cada artículo. Descarga la norma y todos sus reglamentos desde Ley Chile – Biblioteca del Congreso Nacional (BCN), los indexa en un índice local y responde citando norma, artículo, fecha de versión y link oficial. Úsala cuando pregunten qué dice, qué pena tiene o cómo se aplica una ley o decreto de Chile, o pidan ejemplos prácticos de una norma chilena. Chilean law, Chilean statutes and regulations.
 license: MIT
-compatibility: Requiere Node.js 22.13 o superior y acceso a internet (Ley Chile – BCN). No requiere API key ni paquetes npm.
+compatibility: Requiere Node.js 24 o superior y acceso a internet (Ley Chile – BCN). No requiere API key ni paquetes npm.
 ---
 
 # Ley a fondo (Chile)

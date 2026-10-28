@@ -12,8 +12,8 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        # 22.13 es la versión mínima que exige la skill (node:sqlite).
-        node: ['22.13', '24']
+        # 24 es la versión mínima que exige la skill (node:sqlite con FTS5).
+        node: ['24']
     steps:
       - uses: actions/checkout@v7
       - uses: actions/setup-node@v7

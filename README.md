@@ -29,7 +29,7 @@ Funciona con Claude Code, Codex, Cursor y otros agentes compatibles con Agent Sk
 
 ## Requisitos
 
-- **Node.js 22.13 o superior** (usa `node:sqlite`, que viene incluido). No requiere paquetes npm.
+- **Node.js 24 o superior** (usa `node:sqlite` con FTS5, que viene incluido). No requiere paquetes npm.
 - Acceso a internet hacia `leychile.cl` y `nuevo.leychile.cl`.
 - No requiere API key. Usa los endpoints públicos que usa el propio sitio de Ley Chile. Como no están documentados, podrían cambiar.
 

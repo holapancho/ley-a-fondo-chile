@@ -25,7 +25,7 @@ test('frontmatter válido según Agent Skills', () => {
   assert.match(fm.description, /Chilean law/);
   assert.equal(fm.license, 'MIT');
   assert.ok(fm.compatibility && fm.compatibility.length <= 500);
-  assert.match(fm.compatibility, /Node\.js 22\.13/);
+  assert.match(fm.compatibility, /Node\.js 24/);
 });
 
 test('SKILL.md tiene menos de 500 líneas', () => assert.ok(skill().split('\n').length < 500));
