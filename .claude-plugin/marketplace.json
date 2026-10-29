@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "ley-a-fondo-chile",
-  "description": "Skill para entender a fondo normas chilenas con citas verificables, usando Ley Chile – BCN.",
+  "description": "Ley a fondo (Chile): Chilean law explained with verifiable citations, from Ley Chile – BCN.",
   "owner": {
     "name": "holapancho",
     "url": "https://github.com/holapancho"
@@ -10,9 +10,17 @@
     {
       "name": "ley-a-fondo-chile",
       "source": "./",
-      "description": "Explica leyes, decretos, reglamentos y códigos de Chile con citas verificadas contra Ley Chile – BCN.",
+      "description": "Explains Chilean laws, decrees, regulations and codes with every statement cited and verified against Ley Chile – BCN, the official legal database of Chile. Explica leyes, decretos, reglamentos y códigos de Chile con citas verificadas.",
       "category": "legal",
-      "tags": ["chile", "leyes", "legal", "bcn", "ley-chile"]
+      "tags": [
+        "chile",
+        "leyes",
+        "legal",
+        "bcn",
+        "ley-chile",
+        "law",
+        "chilean-law"
+      ]
     }
   ]
 }
