@@ -57,7 +57,8 @@ Corre `npm test` antes de cada commit. El CI exige que pasen `npm test (Node 24)
 ## Versiones y publicación
 
 - La versión está en `package.json`, `.claude-plugin/plugin.json` y `CHANGELOG.md`; un test revisa que coincidan. Anota los cambios en la sección `[Sin publicar]` del CHANGELOG.
-- Para publicar, sigue "Publicar una versión" en el [README](README.md#publicar-una-versión).
+- Para publicar, sigue "Publicar una versión" en el [README](README.md#publicar-una-versión). La publicación en npm (`npm publish`) es manual y la hace el dueño del proyecto.
+- El campo `files` de `package.json` define qué va al paquete de npm. Si agregas una carpeta que el agente necesita, va dentro de `skills/`, no en la raíz.
 
 ## Git
 

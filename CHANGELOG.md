@@ -4,6 +4,10 @@ Todos los cambios relevantes de la skill se anotan aquí. El formato sigue [Keep
 
 ## [Sin publicar]
 
+### Agregado
+
+- Publicación en npm como `ley-a-fondo-chile`, para que la skill aparezca en las búsquedas del registro. El paquete incluye solo la skill, el README, la licencia y el CHANGELOG.
+
 ## [0.1.0] - 2026-10-28
 
 ### Agregado

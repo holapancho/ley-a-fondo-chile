@@ -64,6 +64,8 @@ npx skills add holapancho/ley-a-fondo-chile -a cursor       # solo Cursor, en es
 
 Para fijar una versión: `npx skills add https://github.com/holapancho/ley-a-fondo-chile/tree/v0.1.0`.
 
+La skill también está publicada en [npm](https://www.npmjs.com/package/ley-a-fondo-chile), sobre todo para que aparezca en las búsquedas. `npm install ley-a-fondo-chile` solo deja los archivos en `node_modules/`; para instalarla en un agente, usa `npx skills add`.
+
 ### claude.ai
 
 Descarga [`ley-a-fondo-chile.zip`](https://github.com/holapancho/ley-a-fondo-chile/releases/latest/download/ley-a-fondo-chile.zip) y súbelo en la sección de Skills de la configuración de claude.ai. La ejecución de código tiene que tener acceso a internet hacia `leychile.cl` y `nuevo.leychile.cl`.
@@ -120,6 +122,7 @@ GitHub Actions corre `npm test` y valida el plugin en cada push y PR (`.github/w
 1. Sube la versión en `package.json` y en `.claude-plugin/plugin.json`, y agrega su sección en `CHANGELOG.md`. Un test revisa que las tres coincidan.
 2. Haz merge a `main` y crea el tag: `git tag v0.2.0 && git push origin v0.2.0`.
 3. El workflow `publicar.yml` corre las pruebas y crea el release con el `.zip` y las notas del CHANGELOG.
+4. Publica en npm desde `main` actualizado: `npm publish`. Para revisar antes qué se sube, usa `npm pack --dry-run`; el campo `files` de `package.json` limita el paquete a la skill, el README, la licencia y el CHANGELOG.
 
 La página (`sitio/`) se publica sola en GitHub Pages con cada cambio en `main` (`pagina.yml`).
 
