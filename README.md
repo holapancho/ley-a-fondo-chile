@@ -33,6 +33,14 @@ Funciona con Claude Code, Codex, Cursor y otros agentes compatibles con Agent Sk
 - Acceso a internet hacia `leychile.cl` y `nuevo.leychile.cl`.
 - No requiere API key. Usa los endpoints públicos que usa el propio sitio de Ley Chile. Como no están documentados, podrían cambiar.
 
+## Datos y privacidad / Data and privacy
+
+- **Servicios externos / External services:** el script solo se conecta a `www.leychile.cl` y `nuevo.leychile.cl` (Ley Chile – Biblioteca del Congreso Nacional), al cargar o reindexar una norma. Envía solo la referencia de la norma pedida, como "ley 20000". *The script only connects to `www.leychile.cl` and `nuevo.leychile.cl`, when loading or reindexing a law, and only sends the requested law's reference.*
+- **Datos locales / Local data:** las normas descargadas y el índice se guardan en `~/.ley-a-fondo-chile/`. *Downloaded laws and the index are stored in `~/.ley-a-fondo-chile/`.*
+- **Sin datos personales / No personal data:** no hay telemetría, cuentas ni API keys, y nada se envía al autor. *No telemetry, accounts or API keys; nothing is sent to the author.*
+
+Detalle en / Details in [PRIVACY.md](PRIVACY.md).
+
 ## Instalación
 
 Página del proyecto: **https://holapancho.github.io/ley-a-fondo-chile/**
