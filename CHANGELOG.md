@@ -4,10 +4,6 @@ Todos los cambios relevantes de la skill se anotan aquí. El formato sigue [Keep
 
 ## [Sin publicar]
 
-### Agregado
-
-- Publicación en npm como `ley-a-fondo-chile`, para que la skill aparezca en las búsquedas del registro. El paquete incluye solo la skill, el README, la licencia y el CHANGELOG.
-
 ## [0.1.0] - 2026-10-28
 
 ### Agregado
@@ -16,6 +12,7 @@ Todos los cambios relevantes de la skill se anotan aquí. El formato sigue [Keep
 - Comandos `cargar`, `listar`, `buscar`, `articulo`, `seccion`, `verificar-citas`, `reindexar` y `estado`.
 - Requiere Node.js 24 o superior: el `node:sqlite` de versiones anteriores a Node 22.16 no trae FTS5.
 - Instalación con `npx skills add`, como plugin de Claude Code (`.claude-plugin/`) y como `.zip` para claude.ai.
+- Publicada en npm como [`ley-a-fondo-chile`](https://www.npmjs.com/package/ley-a-fondo-chile), para que aparezca en las búsquedas del registro. El paquete incluye solo la skill, el README, la licencia y el CHANGELOG.
 - Página del proyecto en GitHub Pages (`sitio/`), en español y en inglés (`sitio/en/`), con una sección sobre el autor.
 - Documentación en `documentacion/`: referencia de comandos, arquitectura, fuentes de BCN y decisiones de diseño.
 - CI: pruebas en cada push y PR, y prueba semanal contra BCN real que abre un issue si falla.
