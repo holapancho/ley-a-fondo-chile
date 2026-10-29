@@ -4,9 +4,9 @@ import os from 'node:os';
 import path from 'node:path';
 import { readFileSync } from 'node:fs';
 
-const [MAYOR, MENOR] = process.versions.node.split('.').map(Number);
-if (MAYOR < 22 || (MAYOR === 22 && MENOR < 13)) {
-  console.error(`Se necesita Node.js 22.13 o superior (tienes ${process.versions.node}).`);
+const [MAYOR] = process.versions.node.split('.').map(Number);
+if (MAYOR < 24) {
+  console.error(`Se necesita Node.js 24 o superior (tienes ${process.versions.node}).`);
   process.exit(1);
 }
 

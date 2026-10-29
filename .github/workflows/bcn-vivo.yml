@@ -1,0 +1,38 @@
+name: Prueba contra BCN real
+
+# Los endpoints de Ley Chile no están documentados y pueden cambiar sin aviso.
+# Esta prueba los usa de verdad una vez por semana y abre un issue si algo se rompe.
+on:
+  schedule:
+    - cron: '17 11 * * 1' # lunes 08:17 en Chile continental (UTC-3)
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  vivo:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+      - run: npm run test:vivo
+      - name: Abre o actualiza el issue de la falla
+        if: failure() && github.event_name == 'schedule'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TITULO: 'La prueba contra BCN real falló'
+          RUN: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          numero=$(gh issue list --state open --search "in:title \"$TITULO\"" --json number --jq '.[0].number')
+          cuerpo="La prueba semanal contra Ley Chile – BCN falló: $RUN
+
+          Puede que BCN haya cambiado un endpoint o que haya estado caído. Revisa el log y, si cambió el formato, vuelve a bajar los fixtures con \`node tests/fixtures/descargar.mjs --todos\`."
+          if [ -n "$numero" ]; then
+            gh issue comment "$numero" --body "$cuerpo"
+          else
+            gh issue create --title "$TITULO" --body "$cuerpo"
+          fi

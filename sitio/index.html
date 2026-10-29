@@ -1,0 +1,388 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ley a fondo (Chile)</title>
+<meta name="author" content="Francisco Rojas Morales">
+<meta name="description" content="Skill para agentes de IA que explica leyes, decretos, reglamentos y códigos de Chile con citas verificadas contra Ley Chile – BCN.">
+<meta property="og:title" content="Ley a fondo (Chile)">
+<meta property="og:description" content="Normas chilenas explicadas por tu agente de IA, con cada afirmación citada y verificada contra el texto oficial de Ley Chile – BCN.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://holapancho.github.io/ley-a-fondo-chile/">
+<meta property="og:locale" content="es_CL">
+<meta property="og:locale:alternate" content="en_US">
+<link rel="alternate" hreflang="es" href="https://holapancho.github.io/ley-a-fondo-chile/">
+<link rel="alternate" hreflang="en" href="https://holapancho.github.io/ley-a-fondo-chile/en/">
+<link rel="alternate" hreflang="x-default" href="https://holapancho.github.io/ley-a-fondo-chile/">
+<link rel="icon" href="icono.svg" type="image/svg+xml">
+<style>
+  :root {
+    --fondo: #f6f1e7;
+    --superficie: #fffdf8;
+    --borde: #e2d9c6;
+    --texto: #1c2333;
+    --suave: #5a6172;
+    --tinta: #13294b;
+    --acento: #c0281c;
+    --codigo-fondo: #13294b;
+    --codigo-texto: #eef1f7;
+    --cita-fondo: #f1eadb;
+    --ok: #2f6b3a;
+    --sombra: 0 1px 2px rgba(19, 41, 75, .06), 0 8px 24px rgba(19, 41, 75, .06);
+    color-scheme: light;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --fondo: #10151f;
+      --superficie: #171e2b;
+      --borde: #2a3446;
+      --texto: #e7e9ee;
+      --suave: #a3abba;
+      --tinta: #c9d6f0;
+      --acento: #ff7a6b;
+      --codigo-fondo: #0b0f17;
+      --codigo-texto: #e7e9ee;
+      --cita-fondo: #1f2737;
+      --ok: #8fd19e;
+      --sombra: none;
+      color-scheme: dark;
+    }
+  }
+  :root[data-theme="dark"] {
+    --fondo: #10151f;
+    --superficie: #171e2b;
+    --borde: #2a3446;
+    --texto: #e7e9ee;
+    --suave: #a3abba;
+    --tinta: #c9d6f0;
+    --acento: #ff7a6b;
+    --codigo-fondo: #0b0f17;
+    --codigo-texto: #e7e9ee;
+    --cita-fondo: #1f2737;
+    --ok: #8fd19e;
+    --sombra: none;
+    color-scheme: dark;
+  }
+
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: var(--fondo);
+    color: var(--texto);
+    font: 17px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  }
+  .serif { font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, "Times New Roman", serif; }
+  a { color: var(--tinta); text-underline-offset: 3px; }
+  a:hover { color: var(--acento); }
+  code, pre, kbd { font-family: ui-monospace, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: .88em; }
+  :not(pre) > code { background: var(--cita-fondo); padding: .1em .35em; border-radius: 4px; overflow-wrap: anywhere; }
+
+  .envoltura { max-width: 1040px; margin: 0 auto; padding: 0 16px; }
+  section { padding: 56px 0; border-top: 1px solid var(--borde); }
+  h1, h2, h3 { color: var(--tinta); line-height: 1.2; margin: 0 0 .5em; }
+  h2 { font-size: clamp(1.6rem, 3.2vw, 2.1rem); }
+  h3 { font-size: 1.1rem; }
+  p { margin: 0 0 1em; }
+  .lead { color: var(--suave); max-width: 60ch; }
+
+  /* Encabezado */
+  .barra { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding-top: 18px; padding-bottom: 18px; }
+  .marca { display: flex; align-items: center; gap: 10px; font-weight: 700; color: var(--tinta); text-decoration: none; }
+  .marca img { width: 32px; height: 32px; }
+  .barra nav { display: flex; gap: 18px; font-size: .95rem; }
+  .barra nav a { text-decoration: none; color: var(--suave); }
+  .barra nav a:hover { color: var(--acento); }
+  .barra nav a.idioma { font-weight: 600; color: var(--tinta); border: 1px solid var(--borde); border-radius: 6px; padding: 0 8px; }
+  .barra nav a.idioma:hover { border-color: var(--acento); }
+  @media (max-width: 640px) { .barra nav .opcional { display: none; } }
+
+  .portada { padding-top: 40px; padding-bottom: 64px; display: grid; gap: 40px; grid-template-columns: 1.05fr 1fr; align-items: center; }
+  @media (max-width: 860px) { .portada { grid-template-columns: 1fr; } }
+  .portada h1 { font-size: clamp(2.2rem, 5.6vw, 3.6rem); letter-spacing: -.01em; }
+  .portada h1 em { font-style: normal; color: var(--acento); }
+  .acciones { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 24px; }
+  .boton {
+    display: inline-flex; align-items: center; gap: 8px; padding: 12px 18px; border-radius: 10px;
+    font-weight: 600; text-decoration: none; border: 1px solid var(--tinta);
+  }
+  .boton.primario { background: var(--tinta); color: var(--fondo); }
+  .boton.primario:hover { background: var(--acento); border-color: var(--acento); color: #fff; }
+  .boton.secundario { color: var(--tinta); }
+  .boton.secundario:hover { border-color: var(--acento); }
+  .compat { margin-top: 18px; color: var(--suave); font-size: .92rem; }
+
+  /* Tarjeta de respuesta de ejemplo */
+  .tarjeta { background: var(--superficie); border: 1px solid var(--borde); border-radius: 14px; box-shadow: var(--sombra); }
+  .respuesta { padding: 22px; font-size: .95rem; min-width: 0; }
+  .respuesta .pregunta { font-weight: 600; color: var(--tinta); margin-bottom: 12px; display: flex; gap: 10px; }
+  .respuesta .pregunta span { color: var(--acento); }
+  .respuesta blockquote {
+    margin: 12px 0; padding: 10px 14px; background: var(--cita-fondo); border-left: 3px solid var(--acento);
+    border-radius: 0 8px 8px 0;
+  }
+  .respuesta .cita { font-size: .85rem; overflow-wrap: anywhere; }
+  .respuesta .hipotetico { color: var(--suave); font-style: italic; }
+  .verificado { display: inline-flex; align-items: center; gap: 6px; margin-top: 10px; color: var(--ok); font-size: .85rem; font-weight: 600; }
+  .nota-ejemplo { color: var(--suave); font-size: .82rem; margin: 10px 4px 0; }
+
+  /* Pasos */
+  .pasos { display: grid; gap: 18px; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); counter-reset: paso; margin-top: 28px; }
+  .paso { padding: 22px; }
+  .paso::before {
+    counter-increment: paso; content: counter(paso);
+    display: inline-grid; place-items: center; width: 32px; height: 32px; border-radius: 50%;
+    background: var(--tinta); color: var(--fondo); font-weight: 700; margin-bottom: 12px;
+  }
+  .paso p { color: var(--suave); margin: 0; }
+
+  /* Instalación */
+  .pestanas { display: flex; flex-wrap: wrap; gap: 6px; margin: 24px 0 0; border-bottom: 1px solid var(--borde); }
+  .pestanas button {
+    font: inherit; font-size: .95rem; padding: 10px 14px; background: none; border: 0; cursor: pointer;
+    color: var(--suave); border-bottom: 2px solid transparent; margin-bottom: -1px;
+  }
+  .pestanas button[aria-selected="true"] { color: var(--tinta); border-bottom-color: var(--acento); font-weight: 600; }
+  .panel { padding: 22px 0 0; }
+  .panel[hidden] { display: none; }
+  .bloque { position: relative; margin: 10px 0 18px; }
+  pre {
+    margin: 0; background: var(--codigo-fondo); color: var(--codigo-texto); padding: 16px 18px; padding-right: 84px;
+    border-radius: 10px; overflow-x: auto; line-height: 1.55;
+  }
+  pre .com { color: #9aa7bd; }
+  .copiar {
+    position: absolute; top: 10px; right: 10px; font: inherit; font-size: .78rem; padding: 4px 10px; border-radius: 6px;
+    background: var(--codigo-fondo); color: #fff; border: 1px solid rgba(255, 255, 255, .3); cursor: pointer;
+    box-shadow: -10px 0 10px var(--codigo-fondo);
+  }
+  .copiar:hover { border-color: #fff; }
+  .panel ol { padding-left: 1.2em; }
+  .panel li { margin-bottom: .4em; }
+  .requisitos { color: var(--suave); font-size: .92rem; }
+
+  /* Verificación y límites */
+  .rejilla { display: grid; gap: 18px; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); margin-top: 24px; }
+  .rejilla .tarjeta { padding: 22px; }
+  .rejilla p, .rejilla li { color: var(--suave); }
+  .rejilla ul { margin: 0; padding-left: 1.1em; }
+
+  .aviso { padding: 22px; border-left: 4px solid var(--acento); }
+  .aviso p:last-child { margin: 0; }
+
+  /* Autor */
+  .autor { padding: 28px; display: grid; gap: 24px; grid-template-columns: 1fr auto; align-items: center; }
+  @media (max-width: 720px) { .autor { grid-template-columns: 1fr; } }
+  .autor p { color: var(--suave); max-width: 60ch; }
+  .autor .enlaces { margin: 0; font-size: .95rem; }
+  .autor .boton svg { width: 20px; height: 20px; flex-shrink: 0; }
+
+  footer { padding: 32px 0 48px; border-top: 1px solid var(--borde); color: var(--suave); font-size: .9rem; }
+  footer .envoltura { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 12px; }
+
+  :focus-visible { outline: 2px solid var(--acento); outline-offset: 2px; }
+</style>
+</head>
+<body>
+<header class="envoltura barra">
+  <a class="marca" href="#"><img src="icono.svg" alt="" width="32" height="32"> Ley a fondo</a>
+  <nav>
+    <a class="opcional" href="#como-funciona">Cómo funciona</a>
+    <a href="#instalar">Instalar</a>
+    <a class="opcional" href="#limitaciones">Limitaciones</a>
+    <a href="https://github.com/holapancho/ley-a-fondo-chile">GitHub</a>
+    <a class="idioma" href="en/" hreflang="en" lang="en" title="English version">EN</a>
+  </nav>
+</header>
+
+<main>
+  <div class="envoltura portada">
+    <div>
+      <h1 class="serif">Las leyes de Chile, <em>citadas</em> artículo por artículo.</h1>
+      <p class="lead">Una skill para tu agente de IA que descarga la norma desde Ley Chile – Biblioteca del Congreso Nacional, la indexa en tu equipo y responde con cada afirmación citada: artículo, fecha de versión y link oficial. Antes de responder, el agente verifica sus citas contra el texto oficial.</p>
+      <div class="acciones">
+        <a class="boton primario" href="#instalar">Instalar la skill</a>
+        <a class="boton secundario" href="https://github.com/holapancho/ley-a-fondo-chile">Ver el código</a>
+      </div>
+      <p class="compat">Funciona con Claude Code, claude.ai, Codex, Cursor y otros agentes compatibles con <a href="https://agentskills.io">Agent Skills</a>. Gratis, código MIT, sin API key.</p>
+    </div>
+
+    <div>
+      <article class="tarjeta respuesta" aria-label="Ejemplo de respuesta">
+        <div class="pregunta"><span aria-hidden="true">›</span> ¿Un accidente camino al trabajo cuenta como accidente del trabajo?</div>
+        <p><strong>Sí.</strong> La Ley 16.744 lo llama accidente de trayecto:</p>
+        <blockquote class="serif">«Son también accidentes del trabajo los ocurridos en el trayecto directo, de ida o regreso, entre la habitación y el lugar del trabajo»</blockquote>
+        <p class="cita"><a href="https://www.bcn.cl/leychile/navegar?idNorma=28650&amp;idParte=8745401">Ley 16.744, art. 5 (texto desde 2006-04-28; versión de la norma 2021-12-10)</a></p>
+        <p>Excepciones: «Exceptúanse los accidentes debidos a fuerza mayor extraña que no tenga relación alguna con el trabajo y los producidos intencionalmente por la víctima.» (<a href="https://www.bcn.cl/leychile/navegar?idNorma=28650&amp;idParte=8745401">Ley 16.744, art. 5</a>)</p>
+        <p class="hipotetico">Hipotético: una trabajadora se cae de la bicicleta en su ruta habitual de la casa a la oficina. Es un accidente de trayecto.</p>
+        <div class="verificado"><svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><path d="M3 8.5l3 3 7-7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg> Citas verificadas contra el texto oficial</div>
+      </article>
+      <p class="nota-ejemplo">Extracto de una respuesta de ejemplo. El link lleva al artículo en Ley Chile.</p>
+    </div>
+  </div>
+
+  <section id="como-funciona">
+    <div class="envoltura">
+      <h2 class="serif">Cómo funciona</h2>
+      <p class="lead">Todo corre en tu equipo con un solo script de Node.js, sin dependencias. La skill descarga solo lo que pides.</p>
+      <div class="pasos">
+        <div class="tarjeta paso"><h3>Pides una norma</h3><p>"Carga la ley 20.000" o "carga el código del trabajo". La skill la baja de Ley Chile con todos sus reglamentos y la indexa en <code>~/.ley-a-fondo-chile/</code>.</p></div>
+        <div class="tarjeta paso"><h3>Preguntas</h3><p>El agente busca en el índice, lee los artículos completos, sigue las remisiones y los reglamentos, y traduce las penas citando el Código Penal.</p></div>
+        <div class="tarjeta paso"><h3>Verifica</h3><p>Antes de responder, el agente comprueba que cada artículo citado exista, que cada link apunte al artículo que nombra y que cada texto entre «» sea idéntico al oficial.</p></div>
+        <div class="tarjeta paso"><h3>Responde con citas</h3><p>Tabla resumen, detalle caso a caso, texto literal de las penas y ejemplos marcados como hipotéticos. Si la ley no responde la pregunta, lo dice.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="instalar">
+    <div class="envoltura">
+      <h2 class="serif">Instalar</h2>
+      <p class="lead">Elige tu agente. La skill necesita <strong>Node.js 24 o superior</strong> y acceso a internet hacia <code>leychile.cl</code>.</p>
+
+      <div class="pestanas" role="tablist" aria-label="Agente">
+        <button role="tab" id="t-claude-code" aria-controls="p-claude-code" aria-selected="true">Claude Code</button>
+        <button role="tab" id="t-otros" aria-controls="p-otros" aria-selected="false" tabindex="-1">Codex, Cursor y otros</button>
+        <button role="tab" id="t-claude-ai" aria-controls="p-claude-ai" aria-selected="false" tabindex="-1">claude.ai</button>
+        <button role="tab" id="t-manual" aria-controls="p-manual" aria-selected="false" tabindex="-1">Manual</button>
+      </div>
+
+      <div class="panel" role="tabpanel" id="p-claude-code" aria-labelledby="t-claude-code">
+        <p>Como plugin, desde el marketplace de este repositorio. Dentro de Claude Code:</p>
+        <div class="bloque"><pre><code>/plugin marketplace add holapancho/ley-a-fondo-chile
+/plugin install ley-a-fondo-chile@ley-a-fondo-chile</code></pre></div>
+        <p>O desde la terminal:</p>
+        <div class="bloque"><pre><code>claude plugin marketplace add holapancho/ley-a-fondo-chile
+claude plugin install ley-a-fondo-chile@ley-a-fondo-chile</code></pre></div>
+        <p class="requisitos">Para actualizar: <code>claude plugin update ley-a-fondo-chile@ley-a-fondo-chile</code>.</p>
+      </div>
+
+      <div class="panel" role="tabpanel" id="p-otros" aria-labelledby="t-otros" hidden>
+        <p>Con el instalador de <a href="https://github.com/vercel-labs/skills">Agent Skills</a> (<code>npx skills</code>), que detecta los agentes que tienes instalados:</p>
+        <div class="bloque"><pre><code>npx skills add holapancho/ley-a-fondo-chile</code></pre></div>
+        <p>Para un agente en particular, o para todos tus proyectos (<code>-g</code>):</p>
+        <div class="bloque"><pre><code>npx skills add holapancho/ley-a-fondo-chile -a codex -g
+npx skills add holapancho/ley-a-fondo-chile -a cursor
+npx skills add holapancho/ley-a-fondo-chile -a claude-code -g</code></pre></div>
+        <p class="requisitos">El instalador <code>npx skills</code> pide Node.js 22.20 o superior.</p>
+      </div>
+
+      <div class="panel" role="tabpanel" id="p-claude-ai" aria-labelledby="t-claude-ai" hidden>
+        <ol>
+          <li>Descarga <a href="https://github.com/holapancho/ley-a-fondo-chile/releases/latest/download/ley-a-fondo-chile.zip"><code>ley-a-fondo-chile.zip</code></a> (última versión).</li>
+          <li>En claude.ai, abre la configuración, busca la sección de Skills y sube el <code>.zip</code>.</li>
+          <li>La ejecución de código tiene que estar activada y con acceso a internet hacia <code>leychile.cl</code> y <code>nuevo.leychile.cl</code>. En cuentas de organización, eso lo habilita un administrador.</li>
+        </ol>
+      </div>
+
+      <div class="panel" role="tabpanel" id="p-manual" aria-labelledby="t-manual" hidden>
+        <p>Copia la carpeta <a href="https://github.com/holapancho/ley-a-fondo-chile/tree/main/skills/ley-a-fondo-chile"><code>skills/ley-a-fondo-chile</code></a> en la carpeta de skills de tu agente. Por ejemplo, en Claude Code:</p>
+        <div class="bloque"><pre><code>git clone https://github.com/holapancho/ley-a-fondo-chile
+cp -r ley-a-fondo-chile/skills/ley-a-fondo-chile ~/.claude/skills/</code></pre></div>
+        <p>Prueba que funciona:</p>
+        <div class="bloque"><pre><code>node ~/.claude/skills/ley-a-fondo-chile/scripts/ley-a-fondo.mjs estado</code></pre></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="ejemplos">
+    <div class="envoltura">
+      <h2 class="serif">Qué puedes preguntar</h2>
+      <div class="rejilla">
+        <div class="tarjeta"><h3>Penas</h3><p>"¿Cuáles son las penas por porte de droga?" El agente distingue consumo personal, microtráfico y tráfico, y traduce los grados de las penas citando el Código Penal.</p></div>
+        <div class="tarjeta"><h3>Códigos</h3><p>"¿Qué dice el art. 18 quáter del Código del Trabajo?" o "¿Cuáles son las fuentes de las obligaciones según el Código Civil?"</p></div>
+        <div class="tarjeta"><h3>Decretos y reglamentos</h3><p>Cualquier ley, decreto, DFL o decreto ley publicado en Ley Chile, junto con los reglamentos que la desarrollan y sus anexos.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="limitaciones">
+    <div class="envoltura">
+      <h2 class="serif">Limitaciones conocidas</h2>
+      <div class="rejilla">
+        <div class="tarjeta"><h3>Solo la versión vigente</h3><p>No se pueden consultar versiones anteriores de una norma.</p></div>
+        <div class="tarjeta"><h3>Tablas en imagen</h3><p>Algunas tablas, como la escala de penas del art. 56 del Código Penal, están publicadas como imagen. Sus datos no se pueden verificar como texto, y el agente lo advierte.</p></div>
+        <div class="tarjeta"><h3>Normas fuera de Ley Chile</h3><p>Las normas que no están en Ley Chile, como las de la CMF, no se pueden cargar. De algunas circulares, BCN solo publica un extracto.</p></div>
+        <div class="tarjeta"><h3>Servicio no documentado</h3><p>La skill usa los mismos endpoints públicos que usa el sitio de Ley Chile. Como no están documentados, podrían cambiar; una prueba semanal avisa si eso pasa.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="aviso">
+    <div class="envoltura">
+      <div class="tarjeta aviso">
+        <h2 class="serif">Aviso legal</h2>
+        <p>Las respuestas <strong>no son una interpretación oficial de la Biblioteca del Congreso Nacional ni asesoría legal</strong>. Para un caso concreto, consulta a un abogado.</p>
+        <p>Los textos legales vienen de <a href="https://www.bcn.cl/leychile">Ley Chile – Biblioteca del Congreso Nacional</a>. Cada respuesta cita la fuente y la fecha en que se obtuvo el texto. La skill descarga solo lo que pides y no replica Ley Chile.</p>
+        <p>Este proyecto es independiente y no tiene relación con la Biblioteca del Congreso Nacional.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="autor">
+    <div class="envoltura">
+      <div class="tarjeta autor">
+        <div>
+          <h2 class="serif">Quién está detrás</h2>
+          <p>Hecho por <strong>Francisco Rojas Morales</strong> en Chile, como proyecto personal y gratuito. Lo desarrollé con y para <a href="https://claude.com">Claude</a>.</p>
+          <p>Si te sirvió para entender una ley, puedes invitarme un café. Ayuda a mantener el proyecto.</p>
+          <p class="enlaces"><a href="https://www.linkedin.com/in/franciscorojasmorales" target="_blank" rel="noopener">LinkedIn</a> · <a href="https://github.com/holapancho" target="_blank" rel="noopener">GitHub</a> · <a href="https://www.instagram.com/holapanch0" target="_blank" rel="noopener">@holapanch0</a></p>
+        </div>
+        <a class="boton primario" href="https://www.paypal.com/donate/?business=roja_chenp%40hotmail.com" target="_blank" rel="noopener">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M18 8h1a4 4 0 0 1 0 8h-1"/><path d="M2 8h16v9a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V8z"/><line x1="6" y1="1" x2="6" y2="4"/><line x1="10" y1="1" x2="10" y2="4"/><line x1="14" y1="1" x2="14" y2="4"/>
+          </svg>
+          Invítame un café
+        </a>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="envoltura">
+    <span>Hecho por <a href="#autor">Francisco Rojas Morales</a> con <a href="https://claude.com/claude-code">Claude Code</a>. Código bajo licencia <a href="https://github.com/holapancho/ley-a-fondo-chile/blob/main/LICENSE">MIT</a>.</span>
+    <span><a href="https://github.com/holapancho/ley-a-fondo-chile/issues">Reportar un problema</a> · <a href="https://github.com/holapancho/ley-a-fondo-chile/blob/main/CHANGELOG.md">Cambios</a></span>
+  </div>
+</footer>
+
+<script>
+  // Pestañas de instalación (con flechas del teclado).
+  const pestanas = [...document.querySelectorAll('[role="tab"]')];
+  function elegir(p, enfocar) {
+    for (const otra of pestanas) {
+      const activa = otra === p;
+      otra.setAttribute('aria-selected', String(activa));
+      otra.tabIndex = activa ? 0 : -1;
+      document.getElementById(otra.getAttribute('aria-controls')).hidden = !activa;
+    }
+    if (enfocar) p.focus();
+  }
+  pestanas.forEach((p, i) => {
+    p.addEventListener('click', () => elegir(p));
+    p.addEventListener('keydown', (e) => {
+      const paso = { ArrowRight: 1, ArrowLeft: -1 }[e.key];
+      if (paso) elegir(pestanas[(i + paso + pestanas.length) % pestanas.length], true);
+    });
+  });
+
+  // Botón "Copiar" en cada bloque de código.
+  for (const bloque of document.querySelectorAll('.bloque')) {
+    const boton = document.createElement('button');
+    boton.className = 'copiar';
+    boton.type = 'button';
+    boton.textContent = 'Copiar';
+    boton.addEventListener('click', async () => {
+      try {
+        await navigator.clipboard.writeText(bloque.querySelector('code').innerText);
+        boton.textContent = 'Copiado';
+      } catch {
+        boton.textContent = 'No se pudo';
+      }
+      setTimeout(() => { boton.textContent = 'Copiar'; }, 1500);
+    });
+    bloque.appendChild(boton);
+  }
+</script>
+</body>
+</html>
