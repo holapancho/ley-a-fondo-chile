@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "ley-a-fondo-chile",
-      "source": "./",
+      "source": "./skills/ley-a-fondo-chile",
       "description": "Explains Chilean laws, decrees, regulations and codes with every statement cited and verified against Ley Chile – BCN, the official legal database of Chile. Explica leyes, decretos, reglamentos y códigos de Chile con citas verificadas.",
       "category": "legal",
       "tags": [

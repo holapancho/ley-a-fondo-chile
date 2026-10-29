@@ -30,3 +30,9 @@ jobs:
         with:
           node-version: 24
       - run: npx -y @anthropic-ai/claude-code@2.1.310 plugin validate . --strict
+      - run: npx -y @anthropic-ai/claude-code@2.1.310 plugin validate skills/ley-a-fondo-chile --strict
+      - name: El .zip para claude.ai no lleva el manifiesto del plugin
+        run: |
+          npm run empaquetar
+          unzip -l dist/ley-a-fondo-chile.zip
+          ! unzip -l dist/ley-a-fondo-chile.zip | grep -q '\.claude-plugin/'

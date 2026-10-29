@@ -4,6 +4,10 @@ Todos los cambios relevantes de la skill se anotan aquí. El formato sigue [Keep
 
 ## [Sin publicar]
 
+### Cambiado
+
+- El plugin de Claude Code es ahora solo la carpeta de la skill (`skills/ley-a-fondo-chile/`) y no todo el repositorio. El directorio de plugins dejaba la postulación en revisión por las pruebas, los fixtures, los workflows y la página, que no son parte de la skill. El manifiesto del plugin y su ícono pasan a `skills/ley-a-fondo-chile/.claude-plugin/`; el `.zip` para claude.ai no los incluye.
+
 ## [0.1.0] - 2026-10-28
 
 ### Agregado
