@@ -119,7 +119,7 @@ GitHub Actions corre `npm test` y valida el plugin en cada push y PR (`.github/w
 
 ### Publicar una versión
 
-1. Sube la versión en `package.json` y en `.claude-plugin/plugin.json`, y agrega su sección en `CHANGELOG.md`. Un test revisa que las tres coincidan.
+1. Sube la versión en `package.json` y en `skills/ley-a-fondo-chile/.claude-plugin/plugin.json`, y agrega su sección en `CHANGELOG.md`. Un test revisa que las tres coincidan.
 2. Haz merge a `main` y crea el tag: `git tag v0.2.0 && git push origin v0.2.0`.
 3. El workflow `publicar.yml` corre las pruebas y crea el release con el `.zip` y las notas del CHANGELOG.
 4. Publica en npm desde `main` actualizado: `npm publish`. Para revisar antes qué se sube, usa `npm pack --dry-run`; el campo `files` de `package.json` limita el paquete a la skill, el README, la licencia y el CHANGELOG.

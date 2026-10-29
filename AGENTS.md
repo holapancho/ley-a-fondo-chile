@@ -15,7 +15,7 @@ Una skill (formato [Agent Skills](https://agentskills.io)) que descarga normas c
 | `evals/` | Preguntas con respuesta esperada para medir la calidad de las respuestas del agente |
 | `documentacion/` | Documentación para personas: comandos, arquitectura, fuentes de BCN y decisiones |
 | `sitio/` | Página del proyecto en GitHub Pages, en español (`index.html`) y en inglés (`en/index.html`) |
-| `.claude-plugin/` | Manifiestos del plugin y del marketplace de Claude Code |
+| `.claude-plugin/marketplace.json` | Marketplace de Claude Code. Publica como plugin solo la carpeta de la skill, que tiene su manifiesto en `skills/ley-a-fondo-chile/.claude-plugin/plugin.json` |
 
 ## Comandos
 
@@ -48,6 +48,7 @@ Corre `npm test` antes de cada commit. El CI exige que pasen `npm test (Node 24)
 **La skill**
 - `SKILL.md` debe tener menos de 500 líneas y su frontmatter debe seguir el formato de Agent Skills; hay pruebas que lo revisan.
 - Dentro de `skills/` va solo lo que el agente necesita para usar la skill. La documentación para personas va en `documentacion/`: todo lo que está en `skills/` gasta contexto del agente y agranda el `.zip`.
+- `skills/ley-a-fondo-chile/` es también el plugin de Claude Code, y el directorio de plugins revisa todo lo que contiene. No agregues ahí pruebas, fixtures, workflows ni archivos de más de 256 KiB; un test lo revisa.
 - Si cambias un comando del CLI, actualiza `SKILL.md` y [documentacion/comandos.md](documentacion/comandos.md).
 - En evals y ejemplos, los links de las citas se copian de la salida del script; nunca se escribe un `idParte` a mano.
 
@@ -56,7 +57,7 @@ Corre `npm test` antes de cada commit. El CI exige que pasen `npm test (Node 24)
 
 ## Versiones y publicación
 
-- La versión está en `package.json`, `.claude-plugin/plugin.json` y `CHANGELOG.md`; un test revisa que coincidan. Anota los cambios en la sección `[Sin publicar]` del CHANGELOG.
+- La versión está en `package.json`, `skills/ley-a-fondo-chile/.claude-plugin/plugin.json` y `CHANGELOG.md`; un test revisa que coincidan. Anota los cambios en la sección `[Sin publicar]` del CHANGELOG.
 - Para publicar, sigue "Publicar una versión" en el [README](README.md#publicar-una-versión). La publicación en npm (`npm publish`) es manual y la hace el dueño del proyecto.
 - El campo `files` de `package.json` define qué va al paquete de npm. Si agregas una carpeta que el agente necesita, va dentro de `skills/`, no en la raíz.
 

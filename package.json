@@ -27,7 +27,7 @@
   "scripts": {
     "test": "node --test --test-timeout=120000 \"tests/**/*.test.mjs\"",
     "test:vivo": "node --test --test-timeout=300000 \"tests/vivo/*.vivo.mjs\"",
-    "empaquetar": "rm -f dist/ley-a-fondo-chile.zip && mkdir -p dist && cd skills && zip -rq -X ../dist/ley-a-fondo-chile.zip ley-a-fondo-chile -x '*.DS_Store'"
+    "empaquetar": "rm -f dist/ley-a-fondo-chile.zip && mkdir -p dist && cd skills && zip -rq -X ../dist/ley-a-fondo-chile.zip ley-a-fondo-chile -x '*.DS_Store' 'ley-a-fondo-chile/.claude-plugin/*'"
   },
   "homepage": "https://holapancho.github.io/ley-a-fondo-chile/",
   "repository": {
