@@ -3,7 +3,7 @@
   "name": "ley-a-fondo-chile",
   "displayName": "Ley a fondo (Chile)",
   "version": "0.1.0",
-  "description": "Explica leyes, decretos, reglamentos y códigos de Chile con citas verificadas contra Ley Chile – BCN.",
+  "description": "Explains Chilean laws, decrees, regulations and codes with every statement cited and verified against Ley Chile – BCN, the official legal database of Chile. Explica leyes, decretos, reglamentos y códigos de Chile con citas verificadas.",
   "icon": "./.claude-plugin/icon.png",
   "author": {
     "name": "holapancho",
@@ -20,6 +20,8 @@
     "legal",
     "bcn",
     "ley-chile",
-    "agent-skills"
+    "agent-skills",
+    "law",
+    "chilean-law"
   ]
 }
