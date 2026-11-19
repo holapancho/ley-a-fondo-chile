@@ -248,13 +248,9 @@
       </div>
 
       <div class="panel" role="tabpanel" id="p-claude-code" aria-labelledby="t-claude-code">
-        <p>Como plugin, desde el marketplace de este repositorio. Dentro de Claude Code:</p>
-        <div class="bloque"><pre><code>/plugin marketplace add holapancho/ley-a-fondo-chile
-/plugin install ley-a-fondo-chile@ley-a-fondo-chile</code></pre></div>
-        <p>O desde la terminal:</p>
-        <div class="bloque"><pre><code>claude plugin marketplace add holapancho/ley-a-fondo-chile
-claude plugin install ley-a-fondo-chile@ley-a-fondo-chile</code></pre></div>
-        <p class="requisitos">Para actualizar: <code>claude plugin update ley-a-fondo-chile@ley-a-fondo-chile</code>.</p>
+        <p>Con el instalador de <a href="https://github.com/vercel-labs/skills">Agent Skills</a> (<code>npx skills</code>), para todos tus proyectos:</p>
+        <div class="bloque"><pre><code>npx skills add holapancho/ley-a-fondo-chile -a claude-code -g</code></pre></div>
+        <p class="requisitos">El instalador <code>npx skills</code> pide Node.js 22.20 o superior.</p>
       </div>
 
       <div class="panel" role="tabpanel" id="p-otros" aria-labelledby="t-otros" hidden>
@@ -262,8 +258,7 @@ claude plugin install ley-a-fondo-chile@ley-a-fondo-chile</code></pre></div>
         <div class="bloque"><pre><code>npx skills add holapancho/ley-a-fondo-chile</code></pre></div>
         <p>Para un agente en particular, o para todos tus proyectos (<code>-g</code>):</p>
         <div class="bloque"><pre><code>npx skills add holapancho/ley-a-fondo-chile -a codex -g
-npx skills add holapancho/ley-a-fondo-chile -a cursor
-npx skills add holapancho/ley-a-fondo-chile -a claude-code -g</code></pre></div>
+npx skills add holapancho/ley-a-fondo-chile -a cursor</code></pre></div>
         <p class="requisitos">El instalador <code>npx skills</code> pide Node.js 22.20 o superior.</p>
       </div>
 
