@@ -21,18 +21,3 @@ jobs:
           node-version: ${{ matrix.node }}
       - run: npm test
 
-  plugin:
-    name: Valida el plugin de Claude Code
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v7
-      - uses: actions/setup-node@v7
-        with:
-          node-version: 24
-      - run: npx -y @anthropic-ai/claude-code@2.1.310 plugin validate . --strict
-      - run: npx -y @anthropic-ai/claude-code@2.1.310 plugin validate skills/ley-a-fondo-chile --strict
-      - name: El .zip para claude.ai no lleva el manifiesto del plugin
-        run: |
-          npm run empaquetar
-          unzip -l dist/ley-a-fondo-chile.zip
-          ! unzip -l dist/ley-a-fondo-chile.zip | grep -q '\.claude-plugin/'
